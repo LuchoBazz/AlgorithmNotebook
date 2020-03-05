@@ -8,6 +8,13 @@
     * [Insertar](#insertar)
     * [Buscar](#buscar)
     * [Eliminar](#eliminar)
+* [Recorridos](#recorridos)
+    * [Depth-first Search](#depth-first-search)
+        * [Pre-Order](#pre-order)
+        * [In-Order](#in-order)
+        * [Post-Order](#post-order)
+    * [Breadth-first Search](#breadth-first-search)
+* [Comparación Recorridos](#comparación-recorridos)
 * [Complejidad](#complejidad)
 
 ## Ilustración
@@ -369,6 +376,104 @@ private boolean hasOneChild(TreeNode node) {
     return (node.left!=null&&node.right==null)||(node.left==null&&node.right!=null);
 }
 ```
+
+## Recorridos
+
+* ### Depth-first Search
+
+    * ### Pre-Order
+    ```java
+    public void preOrder() {
+        System.out.print("Pre-Order: ");
+        preOrder(this.root);
+        System.out.println();
+    }
+
+    private void preOrder(TreeNode node) {
+        if(node == null) {
+            return;
+        }
+        System.out.print(node.value + " ");
+        preOrder(node.left);
+        preOrder(node.right);
+    }
+    ```
+    * ### In-Order
+
+    ```java
+    public void inOrder() {
+        System.out.print("In-Order: ");
+        inOrder(this.root);
+        System.out.println();
+    }
+
+    private void inOrder(TreeNode node) {
+        if(node == null) {
+            return;
+        }
+        inOrder(node.left);
+        System.out.print(node.value+" ");
+        inOrder(node.right);
+    }
+    ```
+    * ### Post-Order
+
+    ```java
+    public void postOrder() {
+        System.out.print("Post-Order: ");
+        postOrder(this.root);
+        System.out.println();
+    }
+
+    private void postOrder(TreeNode node) {
+        if(node == null) {
+            return;
+        }
+        postOrder(node.left);
+        postOrder(node.right);
+        System.out.print(node.value+" ");
+    }
+    ```
+
+* ### Breadth-first Search
+
+```java
+private void bfs(TreeNode<T> node) {
+    if(isEmpty(node)) return;
+
+    Queue<TreeNode<T>> queue = new LinkedList<>();
+    queue.add(node);
+
+    while(!queue.isEmpty()) {
+        TreeNode<T> tmp = queue.remove();
+        System.out.print(tmp.value + " ");
+
+        if(!isEmpty(tmp.left)) {
+            queue.add(tmp.left);
+        }
+
+        if(!isEmpty(tmp.right)) {
+            queue.add(tmp.right);
+        }
+    }
+    System.out.println();
+}
+
+public void bfs() {
+    System.out.print("BFS: ");
+    bfs(this.root);
+    System.out.println();
+}
+```
+
+### Comparación Recorridos
+
+<img alt="Binary Search Tree" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/280px-Binary_search_tree.svg.png" width="200">
+
+* **Pre-Order:** `8 3 1 6 4 7 10 14 13`
+* **In-Order:** `1 3 4 6 7 8 10 13 14`
+* **Post-Order:** `1 4 7 6 3 13 14 10 8`
+* **BFS:** `8 3 10 1 6 14 4 7 13`
 
 ## Complejidad
 
