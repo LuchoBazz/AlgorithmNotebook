@@ -1,6 +1,6 @@
 
 // Notebook
-// https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/Binary%20Search%20Tree/Java
+// https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/%20Binary%20Search%20Tree/Java
 
 class BinarySearchTree <T extends Comparable<T>> {
 
