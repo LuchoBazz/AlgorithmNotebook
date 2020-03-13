@@ -9,6 +9,8 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 718. Maximum Length of Repeated Subarray - LeetCode/Medium](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 
 # Bibliografia

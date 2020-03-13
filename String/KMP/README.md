@@ -9,6 +9,8 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 28. Implement strStr() - LeetCode/Easy](https://leetcode.com/problems/implement-strstr/)
 
 # Bibliografia
