@@ -8,8 +8,10 @@
 * [Bibliografia](#bibliografia)
 
 ### Problemas
-* [[1] 704. Binary Search - LeetCode/Easy](https://leetcode.com/problems/binary-search/)
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
+* [[1] 704. Binary Search - LeetCode/Easy](https://leetcode.com/problems/binary-search/)
 * [[2] 35. Search Insert Position - LeetCode/Easy](https://leetcode.com/problems/search-insert-position/)
 
 # Bibliografia

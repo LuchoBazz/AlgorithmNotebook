@@ -9,6 +9,8 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 1143. Longest Common Subsequence - LeetCode/Medium](https://leetcode.com/problems/longest-common-subsequence/)
 
 # Bibliografia

@@ -9,7 +9,11 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 720. Longest Word in Dictionary - LeetCode/Easy](https://leetcode.com/problems/longest-word-in-dictionary/)
+
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 [[2] 208. Implement Trie (Prefix Tree) - LeetCode/Medium](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
