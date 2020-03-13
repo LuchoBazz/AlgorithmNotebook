@@ -9,6 +9,8 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Hard-red.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 72. Edit Distance - LeetCode/Hard](https://leetcode.com/problems/edit-distance/)
 
 # Bibliografia

@@ -8,9 +8,13 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 589. N-ary Tree Preorder Traversal LeetCode/Easy](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 
 [[2] 590. N-ary Tree Postorder Traversal LeetCode/Easy](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 [[3] 429. N-ary Tree Level Order Traversal LeetCode/Medium](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 

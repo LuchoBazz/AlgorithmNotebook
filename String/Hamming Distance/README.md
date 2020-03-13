@@ -9,7 +9,7 @@
 
 ## Problemas
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
 
 [[1] 461. Hamming Distance - LeetCode/Easy](https://leetcode.com/problems/hamming-distance/)
 
