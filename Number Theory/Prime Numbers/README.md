@@ -9,6 +9,8 @@
 
 ## Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
 [[1] 204. Count Primes - LeetCode/Easy](https://leetcode.com/problems/count-primes/)
 
 # Bibliografia
