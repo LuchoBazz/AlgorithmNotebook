@@ -2,6 +2,11 @@
 
 ## Tabla de Contenido
 
+* [Tabla de Contenido](#tabla-de-contenido)
+* [Badges de Dificultad](#badges-de-dificultad)
+    * [LeetCode](#leetcode)
+    * [Codeforces](#codeforces)
+* [Template Imagen](#template-imagen)
 
 ## Badges de Dificultad
 
