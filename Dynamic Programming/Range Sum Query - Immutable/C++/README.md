@@ -13,6 +13,11 @@
 |---|---|---|----|---|----|
 |dp| 1 | 4 | 2  | 8 | 16 |
 
+**Ejemplos:**
+* `range(0, 3)` es igual a `dp[3]`
+* `range(1, 3)` es igual a `dp[3]-dp[0]`
+* `range(2, 4)` es igual a `dp[4] - dp[1]`
+
 ## Implementación
 
 ```java
