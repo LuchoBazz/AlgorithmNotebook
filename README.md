@@ -35,6 +35,12 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
 * **Arboles**
     * `I` [Lowest Common Ancestor of a Binary Search Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/Lowest%20Common%20Ancestor%20-%20BST) - encontrar el ancestro común más bajo
 
+* **Programación Dinamica**
+    * `P` [Algoritmo de Kadane - Suma Maxima de SubArrays](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Algoritmo%20de%20Kadane%20-%20Suma%20Maxima%20de%20SubArrays) - Encontrar un sub array cuya suma sea maxima
+    * `P` [Range Sum Query - Immutable](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Range%20Sum%20Query%20-%20Immutable) - Realizar sumas entre rangos para un array immutable
+
+    * `A` [Aliens Trick](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Aliens%20Trick) - Dado un array y un `k`, encontrar k sub arrays cuya suma sea maxima
+
 ## Estructuras de Datos
 
 Una estructura de datos es una forma particular de organizar y almacenar datos en un ordenador para que puedan accederse y modificarse de forma eficiente. Más concretamente, una estructura de datos es un conjunto de valores de datos, las relaciones entre ellos y las funciones u operaciones que se pueden aplicar a los datos.
