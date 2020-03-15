@@ -18,21 +18,24 @@
 
 * ### Modificar Vector
 
-    * <kbd>push_back(value)</kbd>: Agrega el elemento `value` al final del vector.
+    * ### push_back(value):
+    Agrega el elemento `value` al final del vector.
     ```c++
     vector<int> myvector{ 1, 2, 3, 4, 5 }; 
     myvector.push_back(6); 
     // Vector becomes 1, 2, 3, 4, 5, 6 
     ```
 
-    * <kbd>pop_back()</kbd>: Elimina el ultimo elemento del vector.
+    * ### pop_back():
+    Elimina el ultimo elemento del vector.
     ```c++
     vector<int> myvector{ 1, 2, 3, 4, 5 }; 
     myvector.pop_back(); 
     // Vector becomes 1, 2, 3, 4 
     ```
 
-    * <kbd>insert(position, value)</kbd>: Agrega el elemento `value` en el indice `position`.
+    * ### insert(position, value):
+    Agrega el elemento `value` en el indice `position`.
     ```c++
     vector<int> vec = { 10, 20, 30, 40 }; 
     auto it = vec.insert(vec.begin(), 3); 
@@ -45,8 +48,10 @@
     // Vector becomes 10 20 30 40 50 60 70 80
     ```
 
-    * <kbd>erase(iterator1)</kbd>: Elimina el elemento que esta en el `iterator1`.
-    * <kbd>erase(iterator1, iterator2)</kbd>: Elimina los elementos desde `iterator1` hasta `iterator2`.
+    * ### erase(iterator1):
+    Elimina el elemento que esta en el `iterator1`.
+    * ### erase(iterator1, iterator2):
+    Elimina los elementos desde `iterator1` hasta `iterator2`.
 
     ```c++
     vector<int> myvector{ 1, 2, 3, 4, 5 }; 
@@ -65,7 +70,8 @@
     // Vector becomes 4 5
     ```
 
-    * <kbd>vector1.swap(vector2)</kbd>: Cambia la referencia de los vectores
+    * ### vector1.swap(vector2):
+    Cambia la referencia de los vectores
     ```c++
     vector<int> vector1{ 1, 2, 3, 4 };
     vector<int> vector2{ 3, 5, 7, 9 }; 
@@ -74,14 +80,16 @@
     // vector2 becomes 1 2 3 4 
     ```
 
-    * <kbd>clear()</kbd>: Vacia el vector
+    * ### clear():
+    Vacia el vector
     ```c++
     vector<int> vector1{ 1, 2, 3, 4 };
     vector1.clear(); 
     // vector1 becomes empty 
     ```
 
-    * <kbd>assign(size, value)</kbd>: Asigna nuevos valores a los elementos del vector reemplazando los antiguos. También puede modificar el tamaño del vector si es necesario.
+    * ### assign(size, value):
+    Asigna nuevos valores a los elementos del vector reemplazando los antiguos. También puede modificar el tamaño del vector si es necesario.
 
     ```c++
     vector<int> v; 
