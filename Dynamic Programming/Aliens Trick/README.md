@@ -5,7 +5,8 @@
 * [Implementación en Java](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
-* [Implementación Roger Trujillo](#implementacion-roger-trujillo)
+* [Implementación Roger Trujillo](#implementación-de-roger-trujillo)
+* [Implementación de mediante Concavidad (Roger Trujillo)](#implementación-de-mediante-concavidad-roger-trujillo))
 * [Bibliografia](#bibliografia)
 
 ### Problemas
@@ -31,6 +32,10 @@
 ### Implementación de (Roger Trujillo)
 
 * [C++ Implementation - Codeforces](https://codeforces.com/contest/1197/submission/71875827?fbclid=IwAR0E3GXpy_pTSQKOYDHLBdWFWqzx-1kqPI-p9RxUY8S6J7ajoUUZMMKOYgA)
+
+### Implementación de mediante Concavidad (Roger Trujillo)
+
+* [C++ Implementation - Codeforces](https://codeforces.com/contest/1197/submission/71874710?fbclid=IwAR1J2_3xAvkNN19thU0z7ega3-2ST90uFowO1ymDG2NBAx_oiJ0yWvZLGKE)
 
 # Bibliografia
 
