@@ -1,26 +1,40 @@
-# Standard Data Structures
+# Vector - Standard Data Structures
 
 ### Contenido
 
-* [Vector](#vector)
-    * [Modificar Vector](#modificar-vector)
-        * push_back(value)
-        * pop_back()
-        * insert(position, value)
-        * erase(iterator1)
-        * erase(iterator1, iterator2)
-        * vector1.swap(vector2)
-        * clear()
-        * assign(size, value)
-    * [Acceder a elementos de un Vector](#acceder-a-elementos-de-un-vector)
-        * operator[index] o at(index)
-        * front()
-        * back()
-        * data()
-    * [Capacidad de un Vector](#capacidad-de-un-vector)
+* [Incluir](#incluir)
+* [Modificar Vector](#modificar-vector)
+    * push_back(value)
+    * pop_back()
+    * insert(position, value)
+    * erase(iterator1)
+    * erase(iterator1, iterator2)
+    * vector1.swap(vector2)
+    * clear()
+    * assign(size, value)
+* [Acceder a elementos de un Vector](#acceder-a-elementos-de-un-vector)
+    * operator[index] o at(index)
+    * front()
+    * back()
+    * data()
+* [Capacidad de un Vector](#capacidad-de-un-vector)
+    * size()
+    * empty()
+    * capacity()
+    * resize()
+    * reserve()
+* [Iteradores](#iteradores)
+    * begin()
+    * end()
+    * rbegin()
+    * rend()
 
 
-### Vector
+### Incluir
+
+```c++
+#include <vector>
+```
 
 * ### Modificar Vector
 
@@ -208,4 +222,51 @@
     vec.reserve(100);
     vec.size();     // 0
     vec.capacity(); // 100
+    ```
+
+* ### Iteradores
+    * ### begin()
+    La función `begin()` se usa para devolver un iterador que apunta al primer elemento del contenedor de vectores.
+
+    ```c++
+    vector<int> myvector{ 1, 2, 3, 4, 5 }; 
+    for (auto it = myvector.begin();it != myvector.end(); ++it) {
+        cout << ' ' << *it;
+    }
+    // 1 2 3 4 5
+    ```
+
+    * ### end()
+    La función `end()` devuelve un iterador que apunta al próximo al último elemento del contenedor de vectores.
+
+    ```c++
+    vector<int> myvector{ 1, 2, 3, 4, 5 }; 
+    for (auto it = myvector.begin();it != myvector.end(); ++it) {
+        cout << ' ' << *it;
+    }
+    // 1 2 3 4 5
+    ```
+
+    * ### rbegin()
+    la función devuelve un iterador inverso que apunta al último elemento del contenedor.
+
+    ```c++
+    vector<int> v{1, 2, 3 ,4, 5};
+
+    for (auto it = v.rbegin(); it != v.rend(); it++) {
+        cout << *it << " "; 
+    }
+    // 5 4 3 2 1
+    ```
+
+    * ### rend()
+    la función devuelve un iterador inverso que apunta al elemento teórico justo antes del primer elemento en el contenedor del vector.
+
+    ```c++
+    vector<int> v{1, 2, 3 ,4, 5};
+
+    for (auto it = v.rbegin(); it != v.rend(); it++) {
+        cout << *it << " "; 
+    }
+    // 5 4 3 2 1
     ```
