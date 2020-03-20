@@ -8,16 +8,7 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        if (System.getProperty("LOCAL") != null) {
-            try {
-                File file = new File("input-[1].txt");
-                in = new Scanner(file);
-            } catch (Exception ex) {}
-        }
-        // your code goes here
-       
-        in.close();
     } 
 }
 // javac Solution.java 
-// java -DLOCAL="" Solution
+// java Solution

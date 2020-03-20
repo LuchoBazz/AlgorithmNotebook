@@ -18,15 +18,6 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        if (System.getProperty("LOCAL") != null) {
-            try {
-                File file = new File("input.txt");
-                in = new Scanner(file);
-            } catch (Exception ex) {}
-        }
-        // your code goes here
-       
-        in.close();
     } 
 }
 
@@ -36,5 +27,5 @@ public class Solution {
 
 ```bash
 javac Solution.java 
-java -DLOCAL="" Solution
+java Solution
 ```
