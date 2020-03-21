@@ -17,7 +17,7 @@ El robot solo puede moverse hacia abajo o hacia la derecha en cualquier momento.
 
 ## Ilustración
 
-<img alt="Unique Paths" src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" width="400">
+<img alt="Unique Paths" src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" width="400"> [[From LeetCode]](https://leetcode.com/problems/unique-paths/)
 
 ## Implementación Recursiva - Top-Down
 
@@ -68,6 +68,9 @@ class Solution {
 ```
 
 ## Implementación Iterativa - Bottom-Up
+
+<img alt="Unique Paths" src="https://hackernoon.com/photos/tRi82kbKnOcpcbOfCiFn8dN9Dju1-924ng30xh" width="400">[[From Hackernoon]](https://hackernoon.com/how-to-solve-unique-path-problem-zj4qt30z3)
+
 
 ```java
 class Solution {
