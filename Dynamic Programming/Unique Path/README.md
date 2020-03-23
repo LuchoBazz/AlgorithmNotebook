@@ -15,4 +15,6 @@
 
 * [[2] 63. Unique Paths II - LeetCode/Medium](https://leetcode.com/problems/unique-paths-ii/)
 
+* [[3] Minimum Path Sum - LeetCode/Medium](https://leetcode.com/problems/minimum-path-sum/)
+
 # Bibliografia
