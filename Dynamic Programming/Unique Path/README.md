@@ -17,4 +17,12 @@
 
 * [[3] Minimum Path Sum - LeetCode/Medium](https://leetcode.com/problems/minimum-path-sum/)
 
+[![Generic badge](https://img.shields.io/badge/AtCoder-Medium-yellow.svg)](https://atcoder.jp/contests/dp)
+
+* [[1] H - Grid 1 - AtCoder/Medium](https://atcoder.jp/contests/dp/tasks/dp_h)
+
+[![Generic badge](https://img.shields.io/badge/AtCoder-Hard-red.svg)](https://atcoder.jp/contests/dp)
+
+* [[1] Y - Grid 2 - AtCoder/Hard](https://atcoder.jp/contests/dp/tasks/dp_y)
+
 # Bibliografia
