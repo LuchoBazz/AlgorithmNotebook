@@ -12,11 +12,13 @@
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
 
-[[1] 303. Range Sum Query - Immutable - LeetCode/Easy](https://leetcode.com/problems/range-sum-query-immutable/)
+* [[1] 303. Range Sum Query - Immutable - LeetCode/Easy](https://leetcode.com/problems/range-sum-query-immutable/)
 
 [![Generic badge](https://img.shields.io/badge/Codeforces-Easy-green.svg)](https://codeforces.com/problemset)
 
 * [[1] A. Flipping Game - Codeforces/Easy](https://codeforces.com/contest/327/problem/A)
+
+* [[2] B. Kuriyama Mirai's Stones - Codeforces/Easy](https://codeforces.com/contest/433/problem/B)
 
 # Bibliografia
 
