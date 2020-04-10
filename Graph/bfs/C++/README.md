@@ -1,4 +1,4 @@
-# Depth-first search (DFS) in Graphs - c++
+# Breadth-first search (DFS) in Graphs - c++
 
 ## Contenido
 
@@ -9,7 +9,7 @@
 
 ## Ilustración
 
-<img alt="dfs" src="https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/anim/dfs.gif" width="300">
+<img alt="bfs" src="https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/anim/bfs.gif" width="300">
 
 _Tomado de:_ [CS Stonybrook](https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/search.html)
 
@@ -21,13 +21,25 @@ const int N = 1e+5;
 
 vector<int> adj[N];
 bool visited[N];
+int distance[N];
 
-void dfs(int node) {
-    visited[s] = true;
-    // process node node
-    for (auto neighboor: adj[node]) {
-        if(!visited[neighboor]) {
-            dfs(neighboor);
+void bfs(int node) {
+    visited[node] = true;
+    distance[node] = 0;
+
+    queue<int> q;
+    q.push(node);
+
+    int curr;
+    while(q.size() > 0) {
+        curr = q.front(); q.pop();
+
+        for(int neighboor: adj[curr]) {
+            if(!visited[neighboor]) {
+                visited[neighboor] = true;
+                distance[neighboor] = distance[curr] + 1;
+                q.push(neighboor);
+            }
         }
     }
 }
@@ -52,6 +64,16 @@ int main() {
     int start = 1;
 
     dfs(start);
+
+    // distance
+    // i    | distance[i]
+    // ---------------
+    // 1    | 0
+    // 2    | 1
+    // 3    | 2
+    // 4    | 1
+    // 5    | 2
+    // 6    | 3
 
     return 0;
 }
