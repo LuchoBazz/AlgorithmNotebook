@@ -13,6 +13,10 @@
 
 * [[1] 53. Maximum Subarray - LeetCode/Easy](https://leetcode.com/problems/maximum-subarray/)
 
+[![Generic badge](https://img.shields.io/badge/Codeforces-Easy-green.svg)](https://codeforces.com/problemset)
+
+* [[1] B. Creating the Contest - Codeforces/Easy](https://codeforces.com/contest/1029/problem/B)
+
 # Bibliografia
 
 [[1]](https://www.youtube.com/watch?v=XMnPzRp57bU) "Programación Dinámica | Máxima Suma en Rango 1D", MarcoSoft, 2020. [Online]. Available: https://www.youtube.com/watch?v=XMnPzRp57bU.
