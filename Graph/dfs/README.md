@@ -40,6 +40,10 @@
 
 * [[2] KOZE - Sheep - SphereOnlineJudge/Medium](https://www.spoj.com/problems/KOZE/)
 
+* [[3] BUGLIFE - A Bug’s Life - SphereOnlineJudge/Medium](https://www.spoj.com/problems/BUGLIFE/)
+
+* [[4] PT07Z - Longest path in a tree - SphereOnlineJudge/Medium](https://www.spoj.com/problems/PT07Z/)
+
 [![Generic badge](https://img.shields.io/badge/Hackerearth-Medium-yellow.svg)](https://www.hackerearth.com/de/practice/)
 
 * [[1] Maze Problem - Hackerearth/Medium](https://www.hackerearth.com/de/problem/algorithm/problem-1-29/)
@@ -47,6 +51,10 @@
 [![Generic badge](https://img.shields.io/badge/DevSkill-Medium-yellow.svg)](https://devskill.com/CodingProblems)
 
 * [[1] DCP-3: Maze Tester - Dev Skill/Medium](https://devskill.com/CodingProblems/ViewProblem/3)
+
+[![Generic badge](https://img.shields.io/badge/Uva-Medium-yellow.svg)](https://devskill.com/CodingProblems)
+
+* [[1] 10004 - Bicoloring - Uva/Medium](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
 
 # Bibliografia
 
