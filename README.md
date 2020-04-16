@@ -41,6 +41,21 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
 
     * `A` [Aliens Trick](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Aliens%20Trick) - Dado un array y un `k`, encontrar k sub arrays cuya suma sea maxima
 
+* **Graphs**
+    * `I` [Dijkstra's Algorithm](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Dijkstra) - encontrar los caminos más cortos a todos los vértices del grafo desde un solo vértice
+
+    * `I` [Save Path - Dijkstra](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Save%20Path%20-%20Dijkstra) - encontrar los caminos más cortos y la ruta a todos los vértices del grafo desde un solo vértice
+
+    * `I` [Disjoint Set Union](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Disjoint%20Set%20Union) - Verificar conectividad de dos nodos de un grafo óptimamente
+
+    * `I` [Algoritmo de Floyd-Warshall](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Algoritmo%20de%20Floyd-Warshall) encontrar los caminos más cortos entre todos los pares de vértices
+
+    * `I` [Algoritmo de Kruskal - Minimum Spanning Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Kruskal%20-%20Minimum%20Spanning%20Tree) encontrar el árbol de cubrimiento mínimo (MST) para un grafo no dirigido ponderado
+
+    * `P` [Depth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/dfs)
+
+    * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs)
+
 ## Estructuras de Datos
 
 Una estructura de datos es una forma particular de organizar y almacenar datos en un ordenador para que puedan accederse y modificarse de forma eficiente. Más concretamente, una estructura de datos es un conjunto de valores de datos, las relaciones entre ellos y las funciones u operaciones que se pueden aplicar a los datos.
