@@ -34,6 +34,8 @@
 
 * [[2] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
 
+* [[3] 886. Possible Bipartition - LeetCode/Medium](https://leetcode.com/problems/possible-bipartition/)
+
 [![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
 
 * [[1] Make Maze - Validate the Maze - SphereOnlineJudge/Medium](https://www.spoj.com/problems/MAKEMAZE/)
