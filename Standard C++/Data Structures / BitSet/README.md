@@ -19,6 +19,7 @@
     * bitset\<N\>& **flip()**
     * bitset\<N\>& **flip(index)**
     * bool **test(index)**
+    * int **_Find_first()**
 
 * [Operadores](#operadores)
     * **==** and **!=*
@@ -189,6 +190,15 @@
     // false
     cout << bit.test(2) << endl;
     // true
+    ```
+
+    * ### int _Find_first()
+    Devuelve la posición del bits menos significativo
+    ```c++
+    bitset<10> bit(0); // 0000000000
+    bit[9] = 1;        // 1000000000
+    bit[4] = 1;
+    cout << bit._Find_first() << endl; // 4
     ```
 
 * ### Operadores
