@@ -25,11 +25,11 @@
 ```java
  class DisjointSetUnion {
     private int[] parents;
-    public int components;
+    private int components;
 
     public DisjointSetUnion(int size) {
         this.parents = new int[size];
-        this.components = size + 1;
+        this.components = size;
 
         for(int i = 0; i < size; ++i) {
             this.parents[i] = i;
@@ -54,7 +54,11 @@
         this.components--;
     }
 
-    public boolean connected(int left, int right) {
+    public int getComponents() {
+        return this.components;
+    }
+
+    public boolean isConnected(int left, int right) {
         return find(left) == find(right);
     }
 }
@@ -69,13 +73,13 @@ public static void main (String[] args) {
 
     dsu.join(3, 1); 
 
-    if (dsu.connected(4, 0)){
+    if (dsu.isConnected(4, 0)){
         out.println("YES");
     } else {
         out.println("NO");
     } 
 
-    if (dsu.connected(1, 0)) {
+    if (dsu.isConnected(1, 0)) {
         out.println("YES");
     } else {
         out.println("NO");
@@ -94,12 +98,12 @@ public static void main (String[] args) {
 class DisjointSetUnion {
     private int[] sizes;
     private int[] parents;
-    public int components;
+    private int components;
 
     public DisjointSetUnion(int size) {
         this.sizes = new int[size];
         this.parents = new int[size];
-        this.components = size + 1;
+        this.components = size;
 
         for(int i = 0; i < size; ++i) {
             this.parents[i] = i;
@@ -131,8 +135,12 @@ class DisjointSetUnion {
         this.components--;
     }
 
-    public boolean connected(int left, int right) {
+    public boolean isConnected(int left, int right) {
         return find(left) == find(right);
+    }
+
+    public int getComponents() {
+        return this.components;
     }
 }
 
@@ -146,13 +154,13 @@ public static void main (String[] args) {
 
     dsu.join(3, 1); 
 
-    if (dsu.connected(4, 0)){
+    if (dsu.isConnected(4, 0)){
         out.println("YES");
     } else {
         out.println("NO");
     } 
 
-    if (dsu.connected(1, 0)) {
+    if (dsu.isConnected(1, 0)) {
         out.println("YES");
     } else {
         out.println("NO");
@@ -168,12 +176,12 @@ public static void main (String[] args) {
 * ### Time Complexity
     * `Find`
         
-        <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="70">
+        <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="50">
     * `Union`
 
-        <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="70">
+        <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="50">
 * ### Space Complexity
-    * <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="70">
+    * <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="50">
 
 ## Complexity - CON Compresión
 * ### Time Complexity
@@ -184,4 +192,4 @@ public static void main (String[] args) {
 
         ![Time Complexity - Union Find SIN Compresión](https://i.ibb.co/RzJ8t4m/Log-n.png)
 * ### Space Complexity
-    * <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="70">
+    * <img alt="Algoritmo de Kadane" src="https://i.ibb.co/brG8ZMM/O-n.png" width="50">

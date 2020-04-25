@@ -25,25 +25,40 @@
 
 using namespace std;
 
-class DisjointSet{
-public:
-
+class DisjointSet {
     vector<int> parent;
+    int components;
 
+public:
     DisjointSet(int n): parent(n) {
+        components = n;
         for(int i = 0; i < n; ++i) parent[i] = i;
     }
 
-    void join(int a, int b) {
-        parent[find(b)] = find(a);
+    void join(int left, int right) {
+        int x = find(left);
+        int y = find(right);
+
+        if(x == y) return;
+
+        parents[y] = x;
+
+        components--;
     }
 
-    int find(int a){
-        return (a == parent[a]) ? a : parent[a] = find(parent[a]); 
+    int find(int x){
+        if(x != parents[x]) {
+            parents[x] = find(parents[x]);
+        }
+        return parents[x];
     }
 
-    bool check(int a, int b){
+    bool isConnected(int a, int b){
         return find(a) == find(b);
+    }
+
+    int getComponents() {
+        return components;
     }
 };
 
@@ -59,13 +74,13 @@ int main() {
 
     dsu.join(3, 1); 
 
-    if (dsu.check(4, 0)){
+    if (dsu.isConnected(4, 0)){
         cout<<"YES"<<endl;
     } else {
         cout<<"NO"<<endl;
     } 
 
-    if (dsu.check(1, 0)) {
+    if (dsu.isConnected(1, 0)) {
         cout<<"YES"<<endl;
     } else {
         cout<<"NO"<<endl;
@@ -87,13 +102,17 @@ int main() {
 using namespace std;
 
 class DisjointSet {
-public:
-
     vector<int> parent;
-    vector<int> ranks;
+    vector<int> sizes;
+    int components;
 
-    DisjointSet(int n): parent(n), ranks(n) {
-        for(int i = 0; i < n; ++i) parent[i] = i;
+public:
+    DisjointSet(int n): parent(n), sizes(n) {
+        components = n;
+        for(int i = 0; i < n; ++i) {
+            parent[i] = i;
+            sizes[i] = 1;
+        }
     }
 
     int find(int x) { 
@@ -104,26 +123,29 @@ public:
     }
 
 
-    void join(int x, int y) { 
-        int xRoot = find(x);
-        int yRoot = find(y); 
+    void join(int left, int left) { 
+        int x = find(left);
+        int y = find(right);
 
-        if (xRoot == yRoot){ 
-            return; 
+        if(x == y) return;
+
+        if(sizes[x] < sizes[y]) {
+            sizes[y] += sizes[x];
+            parents[x] = y;
+        } else if(sizes[x] >= sizes[y]) {
+            sizes[x] += sizes[y];
+            parents[y] = x;
         }
 
-        if (ranks[xRoot] < ranks[yRoot]){ 
-            parent[xRoot] = yRoot; 
-        } else if (ranks[yRoot] < ranks[xRoot]) {
-            parent[yRoot] = xRoot; 
-        } else { 
-            parent[yRoot] = xRoot; 
-            ranks[xRoot] = ranks[xRoot] + 1; 
-        } 
+        this.components--;
     };
 
-    bool check(int a, int b) {
+    bool isConnected(int a, int b) {
         return find(a) == find(b);
+    }
+
+    int getComponents() {
+        return components;
     }
 };
 
@@ -139,13 +161,13 @@ int main() {
 
     dsu.join(3, 1); 
 
-    if (dsu.check(4, 0)){
+    if (dsu.isConnected(4, 0)){
         cout<<"YES"<<endl;
     } else {
         cout<<"NO"<<endl;
     } 
 
-    if (dsu.check(1, 0)) {
+    if (dsu.isConnected(1, 0)) {
         cout<<"YES"<<endl;
     } else {
         cout<<"NO"<<endl;
