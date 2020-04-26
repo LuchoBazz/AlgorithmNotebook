@@ -16,6 +16,12 @@
 
 [[1] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
 
+[![Generic badge](https://img.shields.io/badge/HackerEarth-Medium-yellow.svg)](https://www.hackerearth.com/en-us/challenges/competitive/code-monk-disjoint-set-union/problems/)
+
+[[1] City and Flood - HackerEarth/Medium](https://www.hackerearth.com/de/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/)
+
+[[2] City and Fireman Vincent - HackerEarth/Medium](https://www.hackerearth.com/de/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-fireman-vincent/description/)
+
 # Bibliografia
 
 [[1]](https://www.youtube.com/watch?v=VHRhJWacxis) WilliamFiset Youtube Channel. 2017. Union Find Path Compression. [online] Available at: <https://www.youtube.com/watch?v=VHRhJWacxis>.
