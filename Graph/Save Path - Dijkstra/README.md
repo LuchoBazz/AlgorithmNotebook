@@ -13,6 +13,10 @@
 
 * [[1] C. Dijkstra? - Codeforces/Medium](https://codeforces.com/problemset/problem/20/C)
 
+* [[2] D. Lunar New Year and a Wander - Codeforces/Medium](https://codeforces.com/problemset/problem/1106/D)
+
+* [[3] E. Shortest Path - Codeforces/Medium](https://codeforces.com/problemset/problem/59/E)
+
 # Bibliografia
 
 [[1]](https://www.youtube.com/watch?v=pSqmAO-m7Lk) Fiset, W., 2018. Dijkstra's Shortest Path Algorithm | Graph Theory. [online] youtube channel WilliamFiset. Available at: https://www.youtube.com/watch?v=pSqmAO-m7Lk.
