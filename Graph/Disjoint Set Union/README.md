@@ -8,19 +8,23 @@
 
 ## Problemas
 
-[[1] Ancient Berland Roads CodeChef](https://www.codechef.com/problems/ABROADS)
-
-[[2] B. Mike and Feet Codeforces](https://codeforces.com/problemset/problem/547/B)
-
-[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
-
-[[1] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
-
 [![Generic badge](https://img.shields.io/badge/HackerEarth-Medium-yellow.svg)](https://www.hackerearth.com/en-us/challenges/competitive/code-monk-disjoint-set-union/problems/)
 
 [[1] City and Flood - HackerEarth/Medium](https://www.hackerearth.com/de/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-flood-1/)
 
 [[2] City and Fireman Vincent - HackerEarth/Medium](https://www.hackerearth.com/de/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/city-and-fireman-vincent/description/)
+
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
+[[1] 547. Friend Circles - LeetCode/Medium](https://leetcode.com/problems/friend-circles/)
+
+[[2] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
+
+* ### Otros
+
+[[1] Ancient Berland Roads CodeChef](https://www.codechef.com/problems/ABROADS)
+
+[[2] B. Mike and Feet Codeforces](https://codeforces.com/problemset/problem/547/B)
 
 # Bibliografia
 
