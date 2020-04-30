@@ -20,6 +20,10 @@
 
 [[2] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
 
+[[3] 1319. Number of Operations to Make Network Connected - LeetCode/Medium](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+
+[[4] 684. Redundant Connection - LeetCode/Medium](https://leetcode.com/problems/redundant-connection/)
+
 * ### Otros
 
 [[1] Ancient Berland Roads CodeChef](https://www.codechef.com/problems/ABROADS)
