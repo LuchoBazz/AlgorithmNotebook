@@ -5,9 +5,10 @@
 
 ### Problemas
 
-[[1]]() ...
 
-[[2]]() ...
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
+[[1] 684. Redundant Connection - LeetCode/Medium](https://leetcode.com/problems/redundant-connection/)
 
 # Bibliografia
 
