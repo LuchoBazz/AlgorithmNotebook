@@ -13,11 +13,13 @@
 
 [[1] 720. Longest Word in Dictionary - LeetCode/Easy](https://leetcode.com/problems/longest-word-in-dictionary/)
 
+[[2] 14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
-[[2] 208. Implement Trie (Prefix Tree) - LeetCode/Medium](https://leetcode.com/problems/implement-trie-prefix-tree/)
+[[1] 208. Implement Trie (Prefix Tree) - LeetCode/Medium](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-[[3] 648. Replace Words - LeetCode/Medium](https://leetcode.com/problems/replace-words/)
+[[2] 648. Replace Words - LeetCode/Medium](https://leetcode.com/problems/replace-words/)
 
 # Bibliografia
 
