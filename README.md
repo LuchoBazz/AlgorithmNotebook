@@ -4,9 +4,6 @@ Este repositorio contiene una recopilación de algorimtos y estructuras de datos
 
 Cada algoritmo y estructura de datos tiene su propio _README_ con explicaciones relacionadas y enlaces de referencias.
 
-*☝ Nótese que este proyecto está pensado con fines de aprendizaje,
-y **no** para ser usado en producción.*
-
 ## Algoritmos
 
 Un algoritmo es una especificación inequívoca de cómo resolver una clase de problemas. Es un conjunto de reglas que definen con precisión una secuencia de operaciones.
