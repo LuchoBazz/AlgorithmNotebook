@@ -9,7 +9,9 @@
 
 ## Problemas
 
-[[1] ... ]()
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
+
+[[1] 914. X of a Kind in a Deck of Cards - Easy/LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 
 # Bibliografia
 
