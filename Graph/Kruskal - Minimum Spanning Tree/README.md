@@ -10,6 +10,11 @@
 
 [[1] 684. Redundant Connection - LeetCode/Medium](https://leetcode.com/problems/redundant-connection/)
 
+
+[![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
+
+[[1] BLINNET - Red de Blingors de Byteland - SphereOnlineJudge/Medium](https://www.spoj.com/problems/BLINNET/)
+
 # Bibliografia
 
 [[1]](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-using-stl-in-c/) Agrawal, C. (2019). Kruskal's Minimum Spanning Tree using STL in C++ - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-using-stl-in-c/.

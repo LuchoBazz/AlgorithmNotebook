@@ -13,4 +13,8 @@
 
 * [[1] 322. Coin Change - LeetCode/Medium](https://leetcode.com/problems/coin-change/)
 
+[![Generic badge](https://img.shields.io/badge/AtCoder-Medium-yellow.svg)](https://atcoder.jp/contests)
+
+* [[1] C - Strange Bank - AtCoder/Medium](https://atcoder.jp/contests/abc099/tasks/abc099_c)
+
 # Bibliografia
