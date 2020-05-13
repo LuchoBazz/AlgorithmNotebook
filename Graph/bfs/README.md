@@ -9,6 +9,10 @@
 
 ### Problemas
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
+[[1] 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+
 [![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
 
 * [[1] Make Maze - Validate the Maze - SphereOnlineJudge/Medium](https://www.spoj.com/problems/MAKEMAZE/)
