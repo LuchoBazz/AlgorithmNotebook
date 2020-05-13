@@ -13,6 +13,10 @@
 
 [[1] 307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 
+[![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
+
+[[1] FENTREE - Fenwick Trees - Medium/Spoj](https://www.spoj.com/problems/FENTREE/)
+
 # Bibliografia
 
 [[1]](https://cses.fi/book/book.pdf) A. Laaksonen, "Competitive Programmer’s Handbook", cses.fi, 2018. [Online]. Available: https://cses.fi/book/book.pdf.
