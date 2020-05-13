@@ -22,7 +22,6 @@ typedef unsigned int uint;
 typedef long long ll;
 typedef unsigned long long ull;
 typedef long double ld;
-typedef unsigned long double uld;
 typedef pair<int, int> pii;
 typedef pair<int, pair<int, int>> piii;
 
