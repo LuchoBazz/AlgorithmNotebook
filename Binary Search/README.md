@@ -2,7 +2,7 @@
 
 ### Contenido
 
-* [Implementación en Java]()
+* [Implementación en Java](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
 * [Bibliografia](#bibliografia)
@@ -16,6 +16,20 @@
 * [[2] 35. Search Insert Position - LeetCode/Easy](https://leetcode.com/problems/search-insert-position/)
 
 * [[3] 1337. The K Weakest Rows in a Matrix - LeetCode/Easy](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
+* [[4] 69. Sqrt(x) - LeetCode/Easy](https://leetcode.com/problems/sqrtx/)
+
+* [[5] 374. Guess Number Higher or Lower - LeetCode/Easy](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+[![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
+
+* [[1] Binary Search - Basic- HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-basic/problem)
+
+* [[2] Binary Search - Advanced - HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-advanced)
+
+[![Generic badge](https://img.shields.io/badge/HackerEarth-Easy-green.svg)](https://www.hackerearth.com/de/practice/)
+
+*[[1] Bishu and Soldiers - HackerEarth/Easy](https://www.hackerearth.com/de/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
 
 # Bibliografia
 
