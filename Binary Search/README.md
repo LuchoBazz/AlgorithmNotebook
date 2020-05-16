@@ -21,6 +21,12 @@
 
 * [[5] 374. Guess Number Higher or Lower - LeetCode/Easy](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
+* [[6] 744. Find Smallest Letter Greater Than Target - LeetCode/Easy](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
+
+* [[1] 875. Koko Eating Bananas - LeetCode/Medium](https://leetcode.com/problems/koko-eating-bananas/)
+
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
 * [[1] Binary Search - Basic- HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-basic/problem)
@@ -29,7 +35,7 @@
 
 [![Generic badge](https://img.shields.io/badge/HackerEarth-Easy-green.svg)](https://www.hackerearth.com/de/practice/)
 
-*[[1] Bishu and Soldiers - HackerEarth/Easy](https://www.hackerearth.com/de/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
+* [[1] Bishu and Soldiers - HackerEarth/Easy](https://www.hackerearth.com/de/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
 
 # Bibliografia
 
