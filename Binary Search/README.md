@@ -23,9 +23,15 @@
 
 * [[6] 744. Find Smallest Letter Greater Than Target - LeetCode/Easy](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
+* [[7] 1351. Count Negative Numbers in a Sorted Matrix - LeetCode/Easy](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 * [[1] 875. Koko Eating Bananas - LeetCode/Medium](https://leetcode.com/problems/koko-eating-bananas/)
+
+* [[2] 436. Find Right Interval - LeetCode/Medium](https://leetcode.com/problems/find-right-interval/)
+
+* [[3] 209. Minimum Size Subarray Sum  - LeetCode/Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
