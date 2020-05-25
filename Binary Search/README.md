@@ -33,6 +33,12 @@
 
 * [[3] 209. Minimum Size Subarray Sum  - LeetCode/Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
+* [[4] 34. Find First and Last Position of Element in Sorted Array - LeetCode/Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+* [[5] 911. Online Election - LeeCode/Medium](https://leetcode.com/problems/online-election/)
+
+* [[6] 275. H-Index II - LeetCode/Medium](https://leetcode.com/problems/h-index-ii/)
+
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
 * [[1] Binary Search - Basic- HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-basic/problem)
