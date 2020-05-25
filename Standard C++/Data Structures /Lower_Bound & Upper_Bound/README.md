@@ -4,7 +4,7 @@
 
 * [Incluir](#incluir)
 
-* [Lower_Bound & Upper_Bound](#lower-bound---upper_case)
+* [Lower_Bound & Upper_Bound](#lower_bound--upper_bound)
 
 ### Incluir
 
