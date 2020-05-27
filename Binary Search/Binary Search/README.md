@@ -29,15 +29,17 @@
 
 * [[1] 875. Koko Eating Bananas - LeetCode/Medium](https://leetcode.com/problems/koko-eating-bananas/)
 
-* [[2] 436. Find Right Interval - LeetCode/Medium](https://leetcode.com/problems/find-right-interval/)
+* [[2] 74. Search a 2D Matrix - LeetCode/Medium](https://leetcode.com/problems/search-a-2d-matrix/)
 
-* [[3] 209. Minimum Size Subarray Sum  - LeetCode/Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
+* [[3] 436. Find Right Interval - LeetCode/Medium](https://leetcode.com/problems/find-right-interval/)
 
-* [[4] 34. Find First and Last Position of Element in Sorted Array - LeetCode/Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [[4] 209. Minimum Size Subarray Sum  - LeetCode/Medium](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-* [[5] 911. Online Election - LeeCode/Medium](https://leetcode.com/problems/online-election/)
+* [[5] 34. Find First and Last Position of Element in Sorted Array - LeetCode/Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-* [[6] 275. H-Index II - LeetCode/Medium](https://leetcode.com/problems/h-index-ii/)
+* [[6] 911. Online Election - LeeCode/Medium](https://leetcode.com/problems/online-election/)
+
+* [[7] 275. H-Index II - LeetCode/Medium](https://leetcode.com/problems/h-index-ii/)
 
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
@@ -49,6 +51,14 @@
 
 * [[1] Bishu and Soldiers - HackerEarth/Easy](https://www.hackerearth.com/de/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
 
+[![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
+
+* [[1] C. Sagheer and Nubian Market - Codeforces/Medium](https://codeforces.com/contest/812/problem/C)
+
 # Bibliografia
 
-* [[1]](https://www.geeksforgeeks.org/binary-search/) Prabhu Srivastava, R., Jain, D. and Kumar, P. (2020). Binary Search - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/binary-search/.
+* [[1]](https://codeforces.com/blog/entry/9901) Laaksonen, A., 2014. Binary Search Implementation - Codeforces. [online] Codeforces. Available at: <https://codeforces.com/blog/entry/9901>.
+
+* [[2]](https://cses.fi/book/book.pdf) A. Laaksonen, "Competitive Programmer’s Handbook", cses.fi, 2018. [Online]. Available: <https://cses.fi/book/book.pdf>.
+
+* [[3]](https://www.geeksforgeeks.org/binary-search/) Prabhu Srivastava, R., Jain, D. and Kumar, P. (2020). Binary Search - GeeksforGeeks. [online] GeeksforGeeks. Available at: <https://www.geeksforgeeks.org/binary-search/>.

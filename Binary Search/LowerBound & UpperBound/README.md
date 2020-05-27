@@ -5,6 +5,8 @@
 * [Implementación en Java](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
+* [Docs](#docs]
+    * [C++ - Lower_Bound & Upper_Bound - Standard Library](#c++---lower_bound--upper_bound---standard-library)
 * [Bibliografia](#bibliografia)
 
 ### Problemas
@@ -27,8 +29,18 @@
 
 * [[3] 275. H-Index II - LeetCode/Medium](https://leetcode.com/problems/h-index-ii/)
 
+* [[4] 74. Search a 2D Matrix - LeetCode/Medium](https://leetcode.com/problems/search-a-2d-matrix/)
+
+### Docs C++
+
+* [C++ - Lower_Bound & Upper_Bound - Standard Library](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Standard%20C%2B%2B/Data%20Structures%20/Lower_Bound%20%26%20Upper_Bound)
+
 # Bibliografia
 
 * [[1]](https://www.geeksforgeeks.org/lower-and-upper-bound-theory/) soumya7, 2018. Lower And Upper Bound Theory - Geeksforgeeks. [online] GeeksforGeeks. Available at: <https://www.geeksforgeeks.org/lower-and-upper-bound-theory/>.
 
 * [[2]](https://www.geeksforgeeks.org/binary-search/) Prabhu Srivastava, R., Jain, D. and Kumar, P. (2020). Binary Search - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/binary-search/.
+
+* [[3]](https://codeforces.com/blog/entry/9901) Laaksonen, A., 2014. Binary Search Implementation - Codeforces. [online] Codeforces. Available at: <https://codeforces.com/blog/entry/9901>.
+
+* [[4]](https://cses.fi/book/book.pdf) A. Laaksonen, "Competitive Programmer’s Handbook", cses.fi, 2018. [Online]. Available: <https://cses.fi/book/book.pdf>.
