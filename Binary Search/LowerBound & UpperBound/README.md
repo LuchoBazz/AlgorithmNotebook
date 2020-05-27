@@ -2,11 +2,11 @@
 
 ### Contenido
 
-* [Implementación en Java](#)
+* [Implementación](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
-* [Docs](#docs]
-    * [C++ - Lower_Bound & Upper_Bound - Standard Library](#c++---lower_bound--upper_bound---standard-library)
+* [Docs](#docs)
+    * [C++ - Lower_Bound & Upper_Bound - Standard Library](#docs)
 * [Bibliografia](#bibliografia)
 
 ### Problemas
@@ -31,7 +31,7 @@
 
 * [[4] 74. Search a 2D Matrix - LeetCode/Medium](https://leetcode.com/problems/search-a-2d-matrix/)
 
-### Docs C++
+### Docs
 
 * [C++ - Lower_Bound & Upper_Bound - Standard Library](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Standard%20C%2B%2B/Data%20Structures%20/Lower_Bound%20%26%20Upper_Bound)
 
