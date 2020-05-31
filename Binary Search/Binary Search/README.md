@@ -25,6 +25,8 @@
 
 * [[7] 1351. Count Negative Numbers in a Sorted Matrix - LeetCode/Easy](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
+* [[8] 1237. Find Positive Integer Solution for a Given Equation - LeetCode/Easy](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 * [[1] 875. Koko Eating Bananas - LeetCode/Medium](https://leetcode.com/problems/koko-eating-bananas/)
@@ -41,6 +43,10 @@
 
 * [[7] 275. H-Index II - LeetCode/Medium](https://leetcode.com/problems/h-index-ii/)
 
+* [[8] 1011. Capacity To Ship Packages Within D Days - LeetCode/Medium](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+* [[9] 162. Find Peak Element - LeetCode/Medium](https://leetcode.com/problems/find-peak-element/)
+
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
 * [[1] Binary Search - Basic- HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-basic/problem)
@@ -51,9 +57,19 @@
 
 * [[1] Bishu and Soldiers - HackerEarth/Easy](https://www.hackerearth.com/de/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/)
 
+
+[![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset?tags=binary%20search)
+
+* [[1] B. Card Constructions - Codeforces/Easy](https://codeforces.com/problemset/problem/1345/B)
+
+
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 
 * [[1] C. Sagheer and Nubian Market - Codeforces/Medium](https://codeforces.com/contest/812/problem/C)
+
+[![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
+
+* [[1] AGGRCOW - Aggressive cows - SPOJ/Medium](https://www.spoj.com/problems/AGGRCOW/)
 
 # Bibliografia
 
