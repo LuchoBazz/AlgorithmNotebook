@@ -7,7 +7,7 @@
 * [Implementación](#implementación)
     * [Iterativa Lower Bound](#iterativa-lower-bound)
     * [Iterativa Upper Bound](#iterativa-upper-bound)
-* [Complejidad](#complejidad)
+* [Time Complexity](#time-complexity)
 
 ## Ilustración
 
@@ -19,6 +19,7 @@ _Tomado de: Geeks for Geeks_
 
 * ### Iterativa Lower Bound
 
+* **Implementacion 1**
 ```c++
 int lowerBound(vector<int> &values, int target) {
     int n = values.size();
@@ -38,7 +39,24 @@ int lowerBound(vector<int> &values, int target) {
 }
 ```
 
+* **Implementacion 2**
+
+```c++
+int lowerBound(vector<int> &values, int target) {
+    int n = values.size();
+    int k = -1;
+    for (int a = n; a >= 1; a /= 2) {
+        while (k+a < n && values[k+a] < target) {
+            k += a;
+        }
+    }
+    return k+1;
+}
+```
+
 * ### Iterativa Upper Bound
+
+* **Implementacion 1**
 
 ```c++
 int upperBound(vector<int> &values, int target) {
@@ -59,6 +77,21 @@ int upperBound(vector<int> &values, int target) {
 }
 ```
 
-## Complejidad
+* **Implementacion 2**
+
+```c++
+int upperBound(vector<int> &values, int target) {
+    int n = values.size();
+    int k = -1;
+    for (int a = n; a >= 1; a /= 2) {
+        while (k+a < n && values[k+a] <= target) {
+            k += a;
+        }
+    }
+    return k+1;
+}
+```
+
+## Time Complexity
 
 * ![Complejidad de Busqueda](https://i.ibb.co/RzJ8t4m/Log-n.png)
