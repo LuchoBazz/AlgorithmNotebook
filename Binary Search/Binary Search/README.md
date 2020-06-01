@@ -67,6 +67,10 @@
 
 * [[1] C. Sagheer and Nubian Market - Codeforces/Medium](https://codeforces.com/contest/812/problem/C)
 
+* [[2] B. Frodo and pillows - Codeforces/Medium](https://codeforces.com/problemset/problem/760/B)
+
+* [[3] C. Hamburgers - Codeforces/Medium](https://codeforces.com/problemset/problem/371/C)
+
 [![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
 
 * [[1] AGGRCOW - Aggressive cows - SPOJ/Medium](https://www.spoj.com/problems/AGGRCOW/)
