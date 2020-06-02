@@ -47,7 +47,6 @@ void println(const vector<T> &data) {
 
 const int MOD = 1e9+7;
 const int oo  = int(1e9 + 20);
-const int noo = -oo;
 const ll inf  = 2e18+11;
     
 int main() {
