@@ -2,7 +2,8 @@
 
 ## Contenido
 * [Implementación](#)
-    * [Java](#)
+    * [Java](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Trie/Java)
+    * [C++](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Trie/C%2B%2B)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
 * [Bibliografia](#bibliografia)

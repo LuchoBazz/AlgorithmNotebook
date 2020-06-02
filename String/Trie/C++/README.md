@@ -5,7 +5,7 @@
 * [Contenido](#contenido)
 * [Ilustración](#ilustración)
 * [Implementación](#implementación-iterativa)
-    * [Nodo](#nodo)
+    * [Node](#node)
     * [Insertar](#insertar)
     * [Buscar](#buscar)
     * [Inicia Con?](#inicia-con)

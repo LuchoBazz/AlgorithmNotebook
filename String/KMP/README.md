@@ -2,6 +2,7 @@
 
 ## Contenido
 * [Implementación](#)
+    * [C++](#)
     * [Java](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
