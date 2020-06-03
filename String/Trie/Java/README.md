@@ -5,7 +5,7 @@
 * [Contenido](#contenido)
 * [Ilustración](#ilustración)
 * [Implementación](#implementación-iterativa)
-    * [Nodo](#nodo)
+    * [Node](#node)
     * [Insertar](#insertar)
     * [Buscar](#buscar)
     * [Inicia Con?](#inicia-con)
@@ -50,8 +50,8 @@ public void insert(String word) {
         index = curr - 'a';
         
         if(tmp.children[index] == null) {
+            tmp.children[index] = new TrieNode();   
         }
-        
         tmp = tmp.children[index];
     }
     tmp.isEndWord = true;
