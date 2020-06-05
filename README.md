@@ -1,4 +1,4 @@
-# Algorithm Notebook
+# :pushpin: Algorithm Notebook
 
 Este repositorio contiene una recopilación de algorimtos y estructuras de datos populares codificados en Java y C++.
 
@@ -72,7 +72,12 @@ Una estructura de datos es una forma particular de organizar y almacenar datos e
     * `I` [N-ary Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/%20N-ary%20Tree)
     * `I` [Trie (Prefix Tree)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Trie)
 
-## Paginas de Consulta
+## :books: Libros
+
+* :blue_book: [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
+* :blue_book: [Handbook of geometry for competitive programmers by Victor Lecomte](https://vlecomte.github.io/cp-geo.pdf)
+
+## :bookmark_tabs: Paginas de Consulta
 
 [<img alt="Geeks For Geeks" src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width="140">](https://www.geeksforgeeks.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img alt="LeetCode" src="https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png" width="140">](https://leetcode.com/problemset/all/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Codeforces" src="https://codeforces.com/predownloaded/9a/6e/9a6eb69d57ad3f1f2f39eeb386e5a568e84416e3.png" width="140">](https://codeforces.com)
 

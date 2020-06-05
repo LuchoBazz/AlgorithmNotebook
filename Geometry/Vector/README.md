@@ -27,6 +27,8 @@
 
 * [[7] A. Find Color - Codeforces/Easy](https://codeforces.com/problemset/problem/40/A)
 
+* [[8] B. Cover Points - Codeforces/Easy](https://codeforces.com/problemset/problem/1047/B)
+
 # Bibliografia
 
 * [[1]](https://codeforces.com/blog/entry/48122) O. Bacherikov, "Geometry: 2D points and lines [Tutorial] - Codeforces", Codeforces, 2016. [Online]. Available: https://codeforces.com/blog/entry/48122.

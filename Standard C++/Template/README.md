@@ -19,41 +19,41 @@ using namespace std;
 #define debug(...) "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "] "
 
 string to_string(string s) {
-	return '"' + s + '"';
+    return '"' + s + '"';
 }
 
 string to_string(bool b) {
-	return (b ? "true" : "false");
+    return (b ? "true" : "false");
 }
  
 template <typename A, typename B>
 string to_string(pair<A, B> p) {
-	return "(" + to_string(p.first) + ", " + to_string(p.second) + ")";
+    return "(" + to_string(p.first) + ", " + to_string(p.second) + ")";
 }
  
 template <typename A, typename T>
 string to_string(A v) {
-	bool first = true;
-	string res = "{";
-	for (const T &x : v) {
-		if (!first) {
-			res += ", ";
-		}
-		first = false;
-		res += to_string((T)x);
-	}
-	res += "}";
-	return res;
+    bool first = true;
+    string res = "{";
+    for (const T &x : v) {
+        if (!first) {
+            res += ", ";
+        }
+        first = false;
+        res += to_string((T)x);
+    }
+    res += "}";
+    return res;
 }
 
 template<class T>
 void println(const vector<T> &data) {
-	cout << to_string<vector<T>, T>(data) <<endl;
+    cout << to_string<vector<T>, T>(data) <<endl;
 }
 
 template<class T>
 void println(const T &data) {
-	cout << to_string((T)data) << endl;
+    cout << to_string((T)data) << endl;
 }
 
 #define endl '\n'
@@ -80,13 +80,13 @@ const int oo  = int(1e9 + 20);
 const ll inf  = 2e18+11;
     
 int main() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	cout.tie(NULL);
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
 
-	// your code goes here
+    // your code goes here
 
-	return 0;
+    return 0;
 }
 ```
 

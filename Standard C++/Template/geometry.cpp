@@ -36,5 +36,5 @@ bool cmp(ld x, ld y) {
 }
 
 string to_string(Point p) {
-	return "(" + to_string(p.x) + ", " + to_string(p.y) + ")";
+    return "(" + to_string(p.x) + ", " + to_string(p.y) + ")";
 }
