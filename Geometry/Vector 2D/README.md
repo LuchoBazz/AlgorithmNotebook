@@ -1,4 +1,4 @@
-# Vectores - Geometria Computacional
+# Vectores 2D - Geometria Computacional
 
 ### Contenido
 
