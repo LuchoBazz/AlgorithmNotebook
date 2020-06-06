@@ -4,7 +4,7 @@ using namespace std;
 #define ld long double
 //---------------------------------------------------
 
-
+// Template Geometry
 #define PI   3.141592653589793238462643383279502884L // (2*acos(0.0))
 #define eps  1e-9
 
@@ -29,12 +29,23 @@ struct Point {
 
 // Already in Complex
 TP norm(Point p) { return p.x*p.x + p.y*p.y; }
-ld abs(Point p)  { return sqrt(norm(p)); }
 ld arg(Point p)  { return atan2(p.y, p.x); }
-
 TP dot(Point a, Point b) { return a.x*b.x + a.y*b.y; }
 TP cross(Point a, Point b) { return a.x*b.y - a.y*b.x; }
 TP orient(Point a, Point b, Point c) { return cross(b-a,c-a); }
+
+// Distances
+
+// Euclidean Distance
+ld abs(Point p)  { return sqrt(norm(p)); }
+
+// Manhattan Distance
+ll manhDistance(Point p) { return abs(p.x) + abs(p.y);}
+ll manhDistance(Point p1, Point p2) { return abs(p1.x-p2.x) + abs(p1.y-p2.y);}
+
+// Chebyshev Distance
+ll chDistance(Point p) { return max(abs(p.x), abs(p.y));}
+ll chDistance(Point p1, Point p2) { return max(abs(p1.x-p2.x), abs(p1.y-p2.y));}
 
 
 // Aditional Functions

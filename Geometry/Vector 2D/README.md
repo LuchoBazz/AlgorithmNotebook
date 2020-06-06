@@ -29,6 +29,10 @@
 
 * [[8] B. Cover Points - Codeforces/Easy](https://codeforces.com/problemset/problem/1047/B)
 
+[![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/all/?topicSlugs=geometry&difficulty=Easy)
+
+* [[1] 1266. Minimum Time Visiting All Points - LeetCode/Easy](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+
 # Bibliografia
 
 * [[1]](https://codeforces.com/blog/entry/48122) O. Bacherikov, "Geometry: 2D points and lines [Tutorial] - Codeforces", Codeforces, 2016. [Online]. Available: https://codeforces.com/blog/entry/48122.
