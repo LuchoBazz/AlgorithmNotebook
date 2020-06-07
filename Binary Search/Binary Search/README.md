@@ -47,6 +47,8 @@
 
 * [[9] 162. Find Peak Element - LeetCode/Medium](https://leetcode.com/problems/find-peak-element/)
 
+* [[10] 153. Find Minimum in Rotated Sorted Array - LeetCode/Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 [![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/dashboard)
 
 * [[1] Binary Search - Basic- HackerRank/Easy](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/binary-search-basic/problem)
