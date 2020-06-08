@@ -33,6 +33,10 @@
 
 * [[1] 1266. Minimum Time Visiting All Points - LeetCode/Easy](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
+[![Generic badge](https://img.shields.io/badge/SPOJ-Easy-green.svg)](https://www.spoj.com/problems/classical/)
+
+* [[1] CALCAREA - Calculate the Area - SPOJ/Easy - (Area de un Poligono)](https://www.spoj.com/problems/CALCAREA/)
+
 # Bibliografia
 
 * [[1]](https://codeforces.com/blog/entry/48122) O. Bacherikov, "Geometry: 2D points and lines [Tutorial] - Codeforces", Codeforces, 2016. [Online]. Available: https://codeforces.com/blog/entry/48122.

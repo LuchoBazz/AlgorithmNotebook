@@ -4,7 +4,6 @@ using namespace std;
 #define ld long double
 //---------------------------------------------------
 
-
 #define PI   3.141592653589793238462643383279502884L // (2*acos(0.0))
 #define eps  1e-9
 
@@ -45,4 +44,16 @@ int cmp(ld a, ld b) {
 
 string to_string(Point p) {
     return "(" + to_string(p.x) + ", " + to_string(p.y) + ")";
+}
+
+ld area(vector<Point> points, bool sign = false) {
+    int n = points.size();
+    ld ans = 0.0;
+    
+    for(int i = 0; i < n; ++i) {
+        ans += cross(points[i], points[(i + 1) % n]);
+    }
+    ans /= 2.0;
+    
+    return (sign)?ans: abs(ans);
 }

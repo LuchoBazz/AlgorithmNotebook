@@ -60,6 +60,7 @@ string to_string(Point p) {
 // Convex Hull - Monotone Chain
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
+    if(n==1) return points;
     vector<Point> hull;
     sort(points.begin(), points.end());
     for(int it = 0; it < 2; ++it) {

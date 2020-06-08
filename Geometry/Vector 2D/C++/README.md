@@ -61,6 +61,11 @@ TP norm(Point p) { return p.x*p.x + p.y*p.y; }
 ```c++
 ld abs(Point p)  { return sqrt(norm(p)); }
 ```
+Distancia Euclideana
+
+<img alt="Distancia Euclideana" src="https://i.ibb.co/xYhjL3Q/Euclidean-s-Distance.jpg" width="250">
+
+_Tomado de:_ [IQ Opengenus](https://iq.opengenus.org/euclidean-vs-manhattan-vs-chebyshev-distance/)
 
 * ### Argumento
 ```c++
@@ -72,12 +77,20 @@ ld arg(Point p)  { return atan2(p.y, p.x); }
 TP dot(Point a, Point b) { return a.x*b.x + a.y*b.y; }
 ```
 
+![Producto Punto](https://i.ibb.co/xLZPqDz/dot.png)
+
 * ### Producto Cruz
 ```c++
 TP cross(Point a, Point b) { return a.x*b.y - a.y*b.x; }
 ```
 
+![Producto Cruz](https://i.ibb.co/StDcLPx/cross.png)
+
 * ### Orientación
 ```c++
 TP orient(Point a, Point b, Point c) { return cross(b-a,c-a); }
 ```
+
+Teniendo los vectores `a=(x1, y1) y b=(x2, y2)` el producto cruz nos dice si b gira a la izquierda (valor positivo), no gira (cero) o gira a la derecha (valor negativo) cuando se coloca directamente después de a.
+
+<img alt="Orientación" src="https://i.ibb.co/nLhSdCz/Orient.png" width="600">

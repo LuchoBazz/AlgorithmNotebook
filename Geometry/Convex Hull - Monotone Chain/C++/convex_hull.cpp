@@ -21,6 +21,7 @@ T orient(Point a, Point b, Point c) {return cross(b-a, c-a);}
 
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
+    if(n==1) return points;
     vector<Point> hull;
 
     // Sorting Points
