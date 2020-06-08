@@ -61,12 +61,7 @@ string to_string(Point p) {
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
     vector<Point> hull;
-
-    // Sorting Points
     sort(points.begin(), points.end());
-
-    // it=0: Upper Hull
-    // it=1: Lower Hull
     for(int it = 0; it < 2; ++it) {
         int sz = hull.size();
         for(int i = 0; i < n; ++i) {
@@ -76,13 +71,9 @@ vector<Point> convex_hull(vector<Point> points) {
             }
             hull.push_back(points[i]);
         }
-        // Eliminating repeating points, start and end point
         hull.pop_back();
         reverse(points.begin(), points.end());
     }
-
-    // removing duplicate points
     if(hull.size()==2 && hull[0]==hull[1]) hull.pop_back();
-
     return hull;
 }
