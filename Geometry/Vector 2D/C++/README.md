@@ -17,6 +17,7 @@
     * [Producto Punto](#producto-punto)
     * [Producto Cruz](#producto-cruz)
     * [Orientación](#orientación)
+    * [Area de un Poligono](#area-de-un-poligono)
 
 * [Time Complexity](#time-complexity)
 
@@ -94,3 +95,21 @@ TP orient(Point a, Point b, Point c) { return cross(b-a,c-a); }
 Teniendo los vectores `a=(x1, y1) y b=(x2, y2)` el producto cruz nos dice si b gira a la izquierda (valor positivo), no gira (cero) o gira a la derecha (valor negativo) cuando se coloca directamente después de a.
 
 <img alt="Orientación" src="https://i.ibb.co/nLhSdCz/Orient.png" width="600">
+
+* ### Area de un Poligono
+
+```c++
+ld area(vector<Point> points, bool sign = false) {
+    int n = points.size();
+    ld ans = 0.0;
+    
+    for(int i = 0; i < n; ++i) {
+        ans += cross(points[i], points[(i + 1) % n]);
+    }
+    ans /= 2.0;
+    
+    return (sign)?ans: abs(ans);
+}
+```
+_Shoelace formula_
+![Shoelace formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/97b9489b2066a86e294d362aa9160f1a4484ccee)
