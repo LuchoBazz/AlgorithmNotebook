@@ -31,12 +31,13 @@ vector<Point> convex_hull(vector<Point> points) {
     // Sorting Points
     sort(points.begin(), points.end());
 
-    // it=1: Upper Hull
-    // it=2: Lower Hull
+    // it=0: Upper Hull
+    // it=1: Lower Hull
     for(int it = 0; it < 2; ++it) {
         int sz = hull.size();
         for(int i = 0; i < n; ++i) {
-            while(hull.size()>=sz+2 && orient(hull[hull.size()-2], hull.back(), points[i]) >= 0) {
+            // if colineal are needed, use < and remove repeated points
+            while(hull.size()>=sz+2 && orient(hull[hull.size()-2], hull.back(), points[i]) <= 0) {
                 hull.pop_back();
             }
             hull.push_back(points[i]);
@@ -55,6 +56,6 @@ vector<Point> convex_hull(vector<Point> points) {
 
 ### Time Complexity
 
-**`n*log2(n)`**
+`n*log2(n)`
 
-**`n: Es el numero de puntos en el poligono`**
+`n: Es el numero de puntos en el poligono`
