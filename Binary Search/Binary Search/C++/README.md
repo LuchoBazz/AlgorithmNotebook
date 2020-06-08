@@ -23,20 +23,21 @@ _Tomado de: Geeks for Geeks_
 
 ```c++
 int search(vector<int> &values, int target) {
-    int left = 0, right = values.size() - 1;
+    int n = values.size();
+    int low = 0, high = n - 1;
     int mid = 0;
     
-    while (left <= right) {
-        mid = left + (right - left ) / 2;
+    while (low <= high) {
+        mid = low + (high - low ) / 2;
         
-        if(nums[mid] == target) {
+        if(values[mid] == target) {
             return mid;
         }
         
-        if(target < nums[mid]) {
-            right = mid - 1;
+        if(target < values[mid]) {
+            high = mid - 1;
         } else {
-            left = mid + 1;
+            low = mid + 1;
         }
     }
     // Not Found
@@ -47,16 +48,44 @@ int search(vector<int> &values, int target) {
 * **Implementacion 2**
 
 ```c++
-int binarySearch(vector<int> &values, int target) {
+int search(vector<int> &values, int target) {
     int n = values.size();
-    int k = 0;
+    int low = 0, high = n - 1;
+    int mid = 0;
     
-    for (int a = n; a >= 1; a /= 2) {
-        while (k+a < n && values[k+a] <= target) {
-            k += a;
+    while (high - low > 1) {
+        mid = (low + high) / 2;
+        if(target < values[mid]) {
+            high = mid;
+        } else {
+            low = mid;
         }
     }
-    if(values[k] == target) return k;
+    
+    if(values[low] == target) {
+        return low;
+    } else if(values[high] == target) {
+        return high;
+    }
+    // Not Found
+    return -1;
+}
+```
+
+* **Implementacion 3**
+
+```c++
+int binarySearch(vector<int> &values, int target) {
+    int n = values.size();
+    int index = 0;
+    
+    // O(log2(n))
+    for (int jump = n; jump >= 1; jump /= 2) {
+        while (index+jump < n && values[index+jump] <= target) {
+            index += jump;
+        }
+    }
+    if(values[index] == target) return index;
     
     return -1;
 }
@@ -67,21 +96,20 @@ int binarySearch(vector<int> &values, int target) {
 ```c++
 int search(vector<int> &values, int target) {
     return search(values, 0, values.size() - 1, target);
-    
 }
 
-int search(vector<int> &values, int left, int right, int target) {
-    if(left <= right) {
-        int mid = left + (right - left / 2);
+int search(vector<int> &values, int low, int high, int target) {
+    if(low <= high) {
+        int mid = low + (high - low / 2);
         
         if(values[mid] == target) {
             return mid;
         }
         
         if(target < values[mid]) {
-            return search(values, left, mid - 1, target);
+            return search(values, low, mid - 1, target);
         } else {
-            return search(values, mid + 1, right, target);
+            return search(values, mid + 1, high, target);
         }
     }
     // Not Found
