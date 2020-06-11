@@ -11,10 +11,17 @@
 
 ### Problemas
 
-[![Generic badge](https://img.shields.io/badge/LeetCode-Hard-red.svg)](https://leetcode.com/problemset/algorithms/)
+[![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
-* [[1] 587. Erect the Fence - LeetCode/Hard](https://leetcode.com/problems/erect-the-fence/)
+* [[1] 587. Erect the Fence - LeetCode/Medium](https://leetcode.com/problems/erect-the-fence/)
 
+[![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/convex-hull)
+
+* [[1] BSHEEP - Build the Fence - LeetCode/Medium](https://www.spoj.com/problems/BSHEEP/)
+
+[![Generic badge](https://img.shields.io/badge/Kattis-Medium-yellow.svg)](https://open.kattis.com/problems)
+
+* [[1] Convex Hull - Kattis/Medium](https://open.kattis.com/problems/convexhull)
 
 # Bibliografia
 
