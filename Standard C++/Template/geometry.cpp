@@ -57,15 +57,38 @@ string to_string(Point p) {
     return "(" + to_string(p.x) + ", " + to_string(p.y) + ")";
 }
 
+// Area de un Poligono
+ld area(vector<Point> points, bool sign = false) {
+    int n = points.size();
+    ld ans = 0.0;
+    for(int i = 0; i < n; ++i) {
+        ans += cross(points[i], points[(i + 1) % n]);
+    }
+    ans /= 2.0;
+    // ans >= 0 (counter-clock wise): Sentido Antihorario
+    // ans < 0  (clockwise): Agujas del Reloj
+    return (!sign)? abs(ans):ans;
+}
+
+// Perimeter de un Poligono
+ld perimeter(vector<Point> points) {
+    int n = points.size();
+    ld ans = 0.0;
+    for(int i = 0; i < n; ++i) {
+        ans += abs(points[i] - points[(i + 1) % n]);
+    }
+    return ans;
+}
+
 // Convex Hull - Monotone Chain
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
+    if(n <= 1) return points;
     vector<Point> hull;
     sort(points.begin(), points.end());
     for(int it = 0; it < 2; ++it) {
         int sz = hull.size();
         for(int i = 0; i < n; ++i) {
-            // if colineal are needed, use < and remove repeated points
             while(hull.size()>=sz+2 && orient(hull[hull.size()-2], hull.back(), points[i]) <= 0) {
                 hull.pop_back();
             }

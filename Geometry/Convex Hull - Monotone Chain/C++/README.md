@@ -23,9 +23,9 @@ _Tomado de:_ [wikibooks](https://en.wikibooks.org/wiki/Algorithm_Implementation/
 ## Convex Hull
 
 ```c++
-
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
+    if(n <= 1) return points;
     vector<Point> hull;
 
     // Sorting Points
