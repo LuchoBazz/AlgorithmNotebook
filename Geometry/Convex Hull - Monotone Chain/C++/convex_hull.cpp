@@ -12,7 +12,7 @@ struct Point {
     Point operator-(Point a) {return {x-a.x, y-a.y};}
     bool operator==(Point a) {return x==a.x&&y==a.y;}
     bool operator<(Point a) {
-        return x<a.x || (x==a.x && y < a.x);
+        return x<a.x || (x==a.x && y < a.y);
     }
 };
 
@@ -21,7 +21,7 @@ T orient(Point a, Point b, Point c) {return cross(b-a, c-a);}
 
 vector<Point> convex_hull(vector<Point> points) {
     int n = points.size();
-    if(n==1) return points;
+    if(n <= 1) return points;
     vector<Point> hull;
 
     // Sorting Points

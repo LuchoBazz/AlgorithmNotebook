@@ -46,6 +46,7 @@ string to_string(Point p) {
     return "(" + to_string(p.x) + ", " + to_string(p.y) + ")";
 }
 
+// Area de un Poligono
 ld area(vector<Point> points, bool sign = false) {
     int n = points.size();
     ld ans = 0.0;
@@ -54,6 +55,19 @@ ld area(vector<Point> points, bool sign = false) {
         ans += cross(points[i], points[(i + 1) % n]);
     }
     ans /= 2.0;
+
+    // ans >= 0 (counter-clock wise): Sentido Antihorario
+    // ans < 0  (clockwise): Agujas del Reloj
     
-    return (sign)?ans: abs(ans);
+    return (!sign)? abs(ans):ans;
+}
+
+// Perimeter de un Poligono
+ld perimeter(vector<Point> points) {
+    int n = points.size();
+    ld ans = 0.0;
+    for(int i = 0; i < n; ++i) {
+        ans += abs(points[i] - points[(i + 1) % n]);
+    }
+    return ans;
 }

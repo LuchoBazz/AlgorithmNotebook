@@ -18,6 +18,7 @@
     * [Producto Cruz](#producto-cruz)
     * [Orientación](#orientación)
     * [Area de un Poligono](#area-de-un-poligono)
+    * [Perimetro de un Poligono](#perimetro-de-un-poligono)
 
 * [Time Complexity](#time-complexity)
 
@@ -108,8 +109,27 @@ ld area(vector<Point> points, bool sign = false) {
     }
     ans /= 2.0;
     
-    return (sign)?ans: abs(ans);
+    // ans >= 0 (counter-clock wise): Sentido Antihorario
+    // ans < 0  (clockwise): Agujas del Reloj
+    
+    return (!sign)? abs(ans):ans;
 }
 ```
+
+
 _Shoelace formula_
 ![Shoelace formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/97b9489b2066a86e294d362aa9160f1a4484ccee)
+
+* ### Perimetro de un Poligono
+
+```c++
+// Perimeter de un Poligono
+ld perimeter(vector<Point> points) {
+    int n = points.size();
+    ld ans = 0.0;
+    for(int i = 0; i < n; ++i) {
+        ans += abs(points[i] - points[(i + 1) % n]);
+    }
+    return ans;
+}
+```

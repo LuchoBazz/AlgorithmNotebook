@@ -15,7 +15,7 @@
 
 * [[1] A. Beru-taxi - Codeforces/Easy - (Euclidean Distance)](https://codeforces.com/contest/706/problem/A)
 
-* [[2] B. New Year and North Pole - Codeforces/Easy](https://codeforces.com/problemset/problem/750/B)
+* [[2] B. New Year and North Pole - Codeforces/Easy - (Implementation)](https://codeforces.com/problemset/problem/750/B)
 
 * [[3] B. Gleb And Pizza - Codeforces/Easy - (Circles)](https://codeforces.com/contest/842/problem/B)
 
@@ -27,7 +27,7 @@
 
 * [[7] A. Find Color - Codeforces/Easy - (Euclidean Distance)](https://codeforces.com/problemset/problem/40/A)
 
-* [[8] B. Cover Points - Codeforces/Easy](https://codeforces.com/problemset/problem/1047/B)
+* [[8] B. Cover Points - Codeforces/Easy - (Analysis)](https://codeforces.com/problemset/problem/1047/B)
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/all/?topicSlugs=geometry&difficulty=Easy)
 
