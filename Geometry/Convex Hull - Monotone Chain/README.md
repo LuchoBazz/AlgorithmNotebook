@@ -19,6 +19,10 @@
 
 * [[1] BSHEEP - Build the Fence - LeetCode/Medium](https://www.spoj.com/problems/BSHEEP/)
 
+[![Generic badge](https://img.shields.io/badge/Kattis-Medium-yellow.svg)](https://open.kattis.com/problems)
+
+* [[1] Convex Hull - Kattis/Medium](https://open.kattis.com/problems/convexhull)
+
 # Bibliografia
 
 * [[1]](https://cses.fi/book/book.pdf) A. Laaksonen, "Competitive Programmer’s Handbook", cses.fi, 2018. [Online]. Available: <https://cses.fi/book/book.pdf>.

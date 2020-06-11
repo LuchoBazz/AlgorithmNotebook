@@ -43,6 +43,10 @@
 
 * [[2] Polygon Area - Kattis/Medium - (Area and Orientation of a Polygon)](https://open.kattis.com/problems/polygonarea)
 
+### Probar Implementaciones
+
+* [Computational Geometry](https://onlinejudge.u-aizu.ac.jp/courses/library/4/CGL/all)
+
 # Bibliografia
 
 * [[1]](https://codeforces.com/blog/entry/48122) O. Bacherikov, "Geometry: 2D points and lines [Tutorial] - Codeforces", Codeforces, 2016. [Online]. Available: https://codeforces.com/blog/entry/48122.
