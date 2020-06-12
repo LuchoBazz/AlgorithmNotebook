@@ -13,7 +13,21 @@
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/all/?topicSlugs=topological-sort)
 
-[[1] 207. Course Schedule - LeetCode/Medium](https://leetcode.com/problems/course-schedule/)
+* [[1] 207. Course Schedule - LeetCode/Medium](https://leetcode.com/problems/course-schedule/)
+
+* [[2] 210. Course Schedule II - LeetCode/Medium](https://leetcode.com/problems/course-schedule-ii/)
+
+
+[![Generic badge](https://img.shields.io/badge/AizuOnlineJudge-Medium-yellow.svg)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/)
+
+* [[1] Topological Sort - AizuOnlineJudge/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_4_B)
+
+* [[2] Cycle Detection for a Directed Graph - AizuOnlineJudge/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/4/GRL_4_A)
+
+[![Generic badge](https://img.shields.io/badge/Codeforces-Medium-yellow.svg)](https://codeforces.com/problemset)
+
+* [[1] C. Fox And Names :star: - Codeforces/Medium - (TopoSort and Detected  Cycle)](https://codeforces.com/contest/510/problem/C)
+
 
 # Bibliografia
 

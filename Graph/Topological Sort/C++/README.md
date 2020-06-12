@@ -1,4 +1,4 @@
-# # Topological Sort - C++
+# Topological Sort - C++
 
 ## Contenido
 

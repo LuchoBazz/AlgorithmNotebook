@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Tested: https://leetcode.com/problems/course-schedule-ii/
+
 vector<vector<int>> adj;
 vector<bool> visited;
 vector<bool> onstack;

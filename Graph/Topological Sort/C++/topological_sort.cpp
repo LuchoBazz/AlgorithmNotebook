@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Tested: https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_4_B
+
 vector<vector<int>> adj;
 vector<bool> visited;
 vector<int> toposort;
