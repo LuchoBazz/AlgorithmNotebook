@@ -2,11 +2,14 @@
 
 using namespace std;
 
+// Tested: https://leetcode.com/problems/course-schedule-ii/
+
 vector<vector<int>> adj;
 vector<bool> visited;
 vector<bool> onstack;
 vector<int> toposort;
 
+// Implementation I
 // Topological Sort - Detecting Cycles
 void dfs(int node, bool &isCyclic) {
     if(isCyclic) return;
@@ -27,6 +30,26 @@ void dfs(int node, bool &isCyclic) {
 
     onstack[node] = false;
     toposort.push_back(node);
+}
+
+// Implementattion II
+// Topological Sort - Detecting Cycles
+bool dfs(int node) {
+    visited[node] = true;
+    onstack[node] = true;
+    
+    for(int neighbour: adj[node]) {
+        if(visited[neighbour] && onstack[neighbour]) {
+            // There is a circle
+            return true;
+        } else if(!visited[neighbour] && dfs(neighbour)) {
+            // There is a circle
+            return true;
+        }
+    }
+    onstack[node] = false;
+    toposort.push_back(node);
+    return false;
 }
 
 int main() {
@@ -58,9 +81,17 @@ int main() {
     // O(|V| + |E|)
     // |V|: Number of vertices
     // |E|: Number of edges
+
+    // Implementation I
     for(int node = 0; node < n; ++node) {
         if(!visited[node]) {
+            // Implementation I
             dfs(node, isCyclic);
+
+            // Implementation II
+            // isCyclic = isCyclic || dfs(node);
+
+            if(isCyclic) break;
         }
     }
     
@@ -77,6 +108,6 @@ int main() {
         // Out:
         // 0 1 4 3 6 2 5
     }
-    
+
     return 0;
 }
