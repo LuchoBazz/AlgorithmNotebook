@@ -4,8 +4,9 @@
 
 * [Contenido](#contenido)
 * [Ilustración](#ilustración)
-* [Implementación Estandar](#implementación-estandar)
-* [Implementación Detectando Circulos](#implementación-detectando-circulos)
+* [Implementación Estandar - dfs](#implementación-estandar---dfs)
+* [Implementación Detectando Circulos - dfs](#implementación-detectando-circulos---dfs)
+* [Kahn's algorithm - bfs](#)
 * [Time Complexity](#time-complexity)
 * [Space Complexity](#space-complexity)
 ## Ilustración
@@ -81,6 +82,54 @@ bool dfs(int node) {
     onstack[node] = false;
     toposort.push_back(node);
     return false;
+}
+```
+
+## Kahn's algorithm
+
+```c++
+vector<int> kahn(bool &isCyclic) {
+    int n, m;
+    cin >> n >> m;
+
+    vector<int> indegree(n);
+    vector<vector<int>> adj(n);
+    vector<int> toposort;
+
+    for(int i = 0; i < m; ++i) {
+        cin >> from >> to;
+        adj[from].push_back(to);
+        indegree[to]++;
+    }
+
+    queue<int> Q;
+
+    for(int i = 0; i < nodes; ++i) {
+        if(indegree[i] == 0) Q.push(i);
+    }
+
+    int count = 0;
+
+    while(!Q.empty()) {
+        int node = Q.front(); Q.pop();
+
+        toposort.push_back(node);
+
+        for(int neighbour: adj[node]) {
+            indegree[neighbour]--;
+            if(indegree[neighbour] == 0) {
+                Q.push(neighbour);
+            }
+        }
+        count++;
+    }
+
+    if(count != nodes) {
+        // There exists a cycle in the graph
+        isCyclic = true;
+        return vector<int> {};
+    }
+    return toposort;
 }
 ```
 
