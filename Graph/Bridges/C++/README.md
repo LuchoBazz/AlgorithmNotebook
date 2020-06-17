@@ -20,6 +20,13 @@ _Tomado de_: [emre.me](https://emre.me/algorithms/tarjans-algorithm/)
 
 `Bridge III: (3, 4)`
 
+---
+`Index: [0 1 2] [3] [4] [5 6 7 8]`
+
+`Order: [1 2 3] [4] [5] [6 7 8 9]`
+
+`Low: - [1 1 1] [4] [5] [6 6 6 6]`
+
 ## Implementación Estandar
 
 ```c++
@@ -70,7 +77,6 @@ vector<pair<int, int>> build() {
 Worst case time complexity:   O(|V| + |E|)
 Average case time complexity: O(|V| + |E|)
 Best case time complexity:    O(|V| + |E|)
-
 
 |V|: Number of vertices
 |E|: Number of edges
