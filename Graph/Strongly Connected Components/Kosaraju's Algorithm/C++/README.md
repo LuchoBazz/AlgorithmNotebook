@@ -4,9 +4,7 @@
 
 * [Contenido](#contenido)
 * [Ilustración](#ilustración)
-* [Implementación Estandar - dfs](#implementación-estandar---dfs)
-* [Implementación Detectando Circulos - dfs](#implementación-detectando-circulos---dfs)
-* [Kahn's algorithm - bfs](#)
+* [Implementación Estandar](#implementación-estandar)
 * [Time Complexity](#time-complexity)
 * [Space Complexity](#space-complexity)
 ## Ilustración

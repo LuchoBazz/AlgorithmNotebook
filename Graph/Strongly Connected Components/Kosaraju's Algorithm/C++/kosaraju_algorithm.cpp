@@ -1,10 +1,6 @@
-// Made by Luis Miguel Baez
-// es.luismiguelbaez@gmail.com
-
 #include <bits/stdc++.h>
  
 using namespace std;
-
 
 class SCC_Kosaraju {
     vector<vector<int>> adj;
@@ -72,13 +68,7 @@ public:
     }
 };
 
-
-    
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    
     int vertex = 8, edges = 9;
 
     SCC_Kosaraju scc(vertex);

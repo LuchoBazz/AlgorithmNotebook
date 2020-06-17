@@ -1,6 +1,3 @@
-// Made by Luis Miguel Baez
-// es.luismiguelbaez@gmail.com
-
 #include <bits/stdc++.h>
  
 using namespace std;
@@ -59,12 +56,7 @@ public:
     }
 };
 
-
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    
     int n = 8;
     
     SCC_Tarjan scc(n);
@@ -89,6 +81,6 @@ int main() {
     // 0 1 2
     // 3
     // 4 7 6 5
-
+    
     return 0;
 }
