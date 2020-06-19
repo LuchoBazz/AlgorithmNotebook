@@ -15,6 +15,14 @@
 
 * [[1] Bridges - AOJ/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_3_B)
 
+[![Generic badge](https://img.shields.io/badge/HackerEarth-Medium-yellow.svg)](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/)
+
+* [[1] Rhezo and HackerEarth - HackerEarth/Medium](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-hackerearth-3/description/)
+
+* [[2]  Sg against crime - HackerEarth/Medium](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/sg-and-graphs/description/)
+
+* [[3] Friendship - HackerEarth/Medium](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/p2-2-b370c810/description/)
+
 
 # Bibliografia
 

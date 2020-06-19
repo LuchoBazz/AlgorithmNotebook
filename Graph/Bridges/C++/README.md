@@ -51,7 +51,7 @@ void dfs(int node, int parent = -1) {
             dfs(neighbour, node); 
             low[node] = min(low[node], low[neighbour]);
 
-            if (low[neighbour] > order[node]) {
+            if (order[node] < low[neighbour]) {
                 bridges.push_back({node, neighbour});
             }
         } else if (neighbour != parent)  {

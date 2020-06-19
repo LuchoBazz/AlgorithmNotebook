@@ -1,6 +1,3 @@
-// Made by Luis Miguel Baez
-// es.luismiguelbaez@gmail.com
-
 #include <bits/stdc++.h>
  
 using namespace std;
@@ -47,7 +44,7 @@ public:
                 dfs(neighbour, node); 
                 low[node] = min(low[node], low[neighbour]);
 
-                if (low[neighbour] > order[node]) {
+                if (order[node] < low[neighbour]) {
                     bridges.push_back({node, neighbour});
                 }
             } else if (neighbour != parent)  {
