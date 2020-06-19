@@ -1,25 +1,3 @@
-# Breadth-first search (DFS) in Graphs - c++
-
-## Contenido
-
-* [Contenido](#contenido)
-* [Ilustración](#ilustración)
-* [Implementación](#implementación)
-* [Complejidad](#complejidad)
-
-## Ilustración
-
-<img alt="bfs" src="https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/anim/bfs.gif" width="300">
-
-_Tomado de:_ [CS Stonybrook](https://www3.cs.stonybrook.edu/~skiena/combinatorica/animations/search.html)
-
-<img alt="BFS" src="https://cdn.emre.me/2019-09-15-graph-code.png" width="400">
-
-_Tomado de_: [emre.me](https://emre.me/data-structures/graphs/)
-
-## Implementación
-
-```c++
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -37,7 +15,7 @@ void bfs(int start) {
     queue<int> q;
     q.push(start);
 
-    while(q.size()) {
+    while(!q.empty()) {
         int node = q.front(); q.pop();
 
         for(int neighboor: adj[node]) {
@@ -95,9 +73,3 @@ int main() {
 
     return 0;
 }
-```
-
-
-## Complejidad
-
-* <img alt="DFS in Graph" src="https://i.ibb.co/brG8ZMM/O-n.png" width="50">

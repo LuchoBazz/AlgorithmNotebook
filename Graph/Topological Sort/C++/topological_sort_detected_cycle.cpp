@@ -2,7 +2,9 @@
 
 using namespace std;
 
-// Tested: https://leetcode.com/problems/course-schedule-ii/
+// Tested:
+// https://codeforces.com/contest/510/problem/C
+// https://leetcode.com/problems/course-schedule-ii/
 
 vector<vector<int>> adj;
 vector<bool> visited;
