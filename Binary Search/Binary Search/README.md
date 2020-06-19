@@ -83,4 +83,6 @@
 
 * [[2]](https://cses.fi/book/book.pdf) A. Laaksonen, "Competitive Programmer’s Handbook", cses.fi, 2018. [Online]. Available: <https://cses.fi/book/book.pdf>.
 
-* [[3]](https://www.geeksforgeeks.org/binary-search/) Prabhu Srivastava, R., Jain, D. and Kumar, P. (2020). Binary Search - GeeksforGeeks. [online] GeeksforGeeks. Available at: <https://www.geeksforgeeks.org/binary-search/>.
+* [[3]](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions) Shekhar, J., 2020. Binary Search For Beginners [Problems | Patterns | Sample Solutions]. [online] Leetcode.com. Available at: <https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions>.
+
+* [[4]](https://www.geeksforgeeks.org/binary-search/) Prabhu Srivastava, R., Jain, D. and Kumar, P. (2020). Binary Search - GeeksforGeeks. [online] GeeksforGeeks. Available at: <https://www.geeksforgeeks.org/binary-search/>.
