@@ -17,16 +17,17 @@
 
 * [[2] 210. Course Schedule II - LeetCode/Medium -  (TopoSort and Detected Cycle)](https://leetcode.com/problems/course-schedule-ii/)
 
+[![Generic badge](https://img.shields.io/badge/AOJ-Medium-yellow.svg)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/)
 
-[![Generic badge](https://img.shields.io/badge/AizuOnlineJudge-Medium-yellow.svg)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/)
+* [[1] Topological Sort - AOJ/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_4_B)
 
-* [[1] Topological Sort - AizuOnlineJudge/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_4_B)
-
-* [[2] Cycle Detection for a Directed Graph - AizuOnlineJudge/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/4/GRL_4_A)
+* [[2] Cycle Detection for a Directed Graph - AOJ/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/4/GRL_4_A)
 
 [![Generic badge](https://img.shields.io/badge/Codeforces-Medium-yellow.svg)](https://codeforces.com/problemset)
 
 * [[1] C. Fox And Names - Codeforces/Medium - (TopoSort and Detected Cycle)  :star:](https://codeforces.com/contest/510/problem/C)
+
+* [[2] C. Online Courses In BSU - Codeforces/Medium - (TopoSort and Detected Cycle)](https://codeforces.com/contest/770/problem/C)
 
 
 # Bibliografia

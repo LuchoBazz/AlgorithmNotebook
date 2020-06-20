@@ -42,6 +42,10 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `A` [Aliens Trick](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Aliens%20Trick) - Dado un array y un `k`, encontrar k sub arrays cuya suma sea maxima
 
 * **Graphs**
+    * `P` [Depth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/dfs)
+
+    * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs)
+
     * `I` [Dijkstra's Algorithm](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Dijkstra) - encontrar los caminos más cortos a todos los vértices del grafo desde un solo vértice
 
     * `I` [Save Path - Dijkstra](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Save%20Path%20-%20Dijkstra) - encontrar los caminos más cortos y la ruta a todos los vértices del grafo desde un solo vértice
@@ -52,9 +56,35 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
 
     * `I` [Algoritmo de Kruskal - Minimum Spanning Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Kruskal%20-%20Minimum%20Spanning%20Tree) encontrar el árbol de cubrimiento mínimo (MST) para un grafo no dirigido ponderado
 
-    * `P` [Depth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/dfs)
+    * `I` [Topological Sort](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Topological%20Sort) Metodo para Ordenar los vertices de un Grafo Dirigido
 
-    * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs)
+    * `I` [Bridges](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Bridges) Algoritmo para encontrar los puentes de un Grafo no Dirigido
+
+    * `I` [Kosaraju's Algorithm - SCC](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Strongly%20Connected%20Components/Kosaraju's%20Algorithm) Algoritmo para encontrar los componentes fuertemente conexos en un Grafo Dirigido
+
+    * `I` [Tarjan's Algorithm - SCC](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Strongly%20Connected%20Components/Tarjan's%20Algorithm) Algoritmo para encontrar los componentes fuertemente conexos en un Grafo Dirigido
+
+* **Geometry**
+    * `P` [Operaciones entre Vectores 2D (+-*/)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Producto Punto de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Producto Cruz de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Orientación de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Distancia Euclideana 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Distancia Manhattan 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `P` [Distancia Chebyshev 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `I` [Area de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+
+    * `I` [Perimetro de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    
+    * `A` [Convex Hull - Monotone Chain](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Convex%20Hull/Monotone%20Chain)
+
 
 ## Estructuras de Datos
 
@@ -79,6 +109,16 @@ Una estructura de datos es una forma particular de organizar y almacenar datos e
 
 ## :bookmark_tabs: Paginas de Consulta
 
-[<img alt="Geeks For Geeks" src="https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png" width="140">](https://www.geeksforgeeks.org) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img alt="LeetCode" src="https://miro.medium.com/max/2720/1*gBkMCGTAdSk4tu17SCa7RQ.png" width="140">](https://leetcode.com/problemset/all/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="Codeforces" src="https://codeforces.com/predownloaded/9a/6e/9a6eb69d57ad3f1f2f39eeb386e5a568e84416e3.png" width="140">](https://codeforces.com)
+* :scroll: [Geeks For Geeks](https://www.geeksforgeeks.org)
 
-[<img alt="CP-Algorithms" src="https://i.ibb.co/Sv8c55x/cp-algoritms.png" width="140">](https://cp-algorithms.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img alt="A Bit of CS" src="https://i.ibb.co/LCpS67D/bit-cs.png" width="160">](https://abitofcs.blogspot.com/)[<img alt="Techie Delight" src="https://i.ibb.co/4JDcLgw/Techie-Delight.png" width="160">](https://www.techiedelight.com/)
+* :scroll: [Codeforces](https://codeforces.com/blog/entry/57282)
+
+* :scroll: [CP Algorithms](https://cp-algorithms.com/)
+
+* :scroll: [A Bit of CS](https://abitofcs.blogspot.com/)
+
+* :scroll: [Techie Delight](https://www.techiedelight.com/)
+
+* :scroll: [Emre.me](https://emre.me/)
+
+* :scroll: [Iq OpenGenus](https://iq.opengenus.org/)
