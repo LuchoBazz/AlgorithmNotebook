@@ -42,9 +42,9 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `A` [Aliens Trick](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Aliens%20Trick) - Dado un array y un `k`, encontrar k sub arrays cuya suma sea maxima
 
 * **Graphs**
-    * `P` [Depth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/dfs)
+    * `P` [Depth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/dfs) Metodo para recorrer todos los nodos de un Grafo, de forma recursiva
 
-    * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs)
+    * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs) Metodo para recorrer todos los nodos de un Grafo, de forma iterativa
 
     * `I` [Dijkstra's Algorithm](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Dijkstra) - encontrar los caminos más cortos a todos los vértices del grafo desde un solo vértice
 
@@ -65,25 +65,25 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `I` [Tarjan's Algorithm - SCC](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Strongly%20Connected%20Components/Tarjan's%20Algorithm) Algoritmo para encontrar los componentes fuertemente conexos en un Grafo Dirigido
 
 * **Geometry**
-    * `P` [Operaciones entre Vectores 2D (+-*/)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Operaciones entre Vectores 2D (+-*/)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Operaciones elementales entre vectores (Suma, Resta, Multiplicación y División)
 
-    * `P` [Producto Punto de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Producto Punto de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Producto punto entre vectores 2D
 
-    * `P` [Producto Cruz de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Producto Cruz de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Producto Cruz entre vectores 2D
 
-    * `P` [Orientación de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Orientación de Vectores 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Verificar la orientación de un vector con respecto a otros vectores
 
-    * `P` [Distancia Euclideana 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Distancia Euclideana 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Distancia Euclideana en un plano 2D
 
-    * `P` [Distancia Manhattan 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Distancia Manhattan 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Distancia Manhattan en un plano 2D
 
-    * `P` [Distancia Chebyshev 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `P` [Distancia Chebyshev 2D](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Distancia Chebyshev en un plano 2D
 
-    * `I` [Area de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `I` [Area de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Calcular el area de un poligono
 
-    * `I` [Perimetro de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D)
+    * `I` [Perimetro de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Calcular el perimetro de un poligono
     
-    * `A` [Convex Hull - Monotone Chain](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Convex%20Hull/Monotone%20Chain)
+    * `A` [Convex Hull - Monotone Chain](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Convex%20Hull/Monotone%20Chain) Calcular el minimo envolvente convexa que cubra todos los puntos dados
 
 
 ## Estructuras de Datos
