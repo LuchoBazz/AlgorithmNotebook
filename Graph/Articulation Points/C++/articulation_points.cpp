@@ -75,17 +75,10 @@ public:
 
 int main() {
     
-    int vertex, edges, x, y;
-    
-    cin >> vertex >> edges;
+    int vertex = 9, edges = 10;
     
     ArticulationPoints aps(vertex);
-    
-    for(int i = 0; i < edges; ++i) {
-        cin >> x >> y;
-        aps.addEdge(x, y);
-    }
-
+   
     aps.addEdge(0, 1);
     aps.addEdge(0, 2);
     aps.addEdge(1, 2);
