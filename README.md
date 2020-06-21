@@ -109,16 +109,16 @@ Una estructura de datos es una forma particular de organizar y almacenar datos e
 
 ## :bookmark_tabs: Paginas de Consulta
 
-* :scroll: [Geeks For Geeks](https://www.geeksforgeeks.org)
+* :bookmark: [Geeks For Geeks](https://www.geeksforgeeks.org)
 
-* :scroll: [Codeforces](https://codeforces.com/blog/entry/57282)
+* :bookmark: [Codeforces](https://codeforces.com/blog/entry/57282)
 
-* :scroll: [CP Algorithms](https://cp-algorithms.com/)
+* :bookmark: [CP Algorithms](https://cp-algorithms.com/)
 
-* :scroll: [A Bit of CS](https://abitofcs.blogspot.com/)
+* :bookmark: [A Bit of CS](https://abitofcs.blogspot.com/)
 
-* :scroll: [Techie Delight](https://www.techiedelight.com/)
+* :bookmark: [Techie Delight](https://www.techiedelight.com/)
 
-* :scroll: [Emre.me](https://emre.me/)
+* :bookmark: [Emre.me](https://emre.me/)
 
-* :scroll: [Iq OpenGenus](https://iq.opengenus.org/)
+* :bookmark: [Iq OpenGenus](https://iq.opengenus.org/)
