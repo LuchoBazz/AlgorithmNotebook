@@ -31,3 +31,5 @@
 [[2]](https://www.geeksforgeeks.org/bridge-in-a-graph/) Aziz, F., Koerber, M. and Ji, R., 2013. Bridges In A Graph - Geeksforgeeks. [online] GeeksforGeeks. Available at: <https://www.geeksforgeeks.org/bridge-in-a-graph/>.
 
 [[3]](https://cp-algorithms.com/graph/bridge-searching.html) Cp-algorithms. n.d. Finding Bridges In A Graph In O(N+M) - Competitive Programming Algorithms. [online] Available at: <https://cp-algorithms.com/graph/bridge-searching.html>.
+
+[[4]](https://emre.me/algorithms/tarjans-algorithm/) E. Bolat, "Tarjan’s Algorithm: Strongly Connected Components", emre.me, 2020. [Online]. Available: https://emre.me/algorithms/tarjans-algorithm/.

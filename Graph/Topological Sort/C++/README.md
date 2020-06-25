@@ -87,6 +87,8 @@ bool dfs(int node) {
 
 ## Kahn's algorithm
 
+**Approach:** `Greedy`
+
 ```c++
 vector<int> kahn(bool &isCyclic) {
     int n, m;
