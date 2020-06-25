@@ -17,6 +17,8 @@ _Tomado de:_ [Wikipedia](https://commons.wikimedia.org/wiki/File:Boruvka's-algor
 
 ## Implementación
 
+**Approach:** `Greedy`
+
 ```c++
 #include <bits/stdc++.h>
 

@@ -13,7 +13,11 @@
 
 [![Generic badge](https://img.shields.io/badge/AOJ-Medium-yellow.svg)](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all)
 
-* [[1] Articulation Points - AOJ/Medium](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_3_A)
+* [[1] Articulation Points](https://onlinejudge.u-aizu.ac.jp/courses/library/5/GRL/all/GRL_3_A)
+
+[![Generic badge](https://img.shields.io/badge/HackerEarth-Medium-yellow.svg)](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/)
+
+* [[1] Rhezo and Destructive Mind](https://www.hackerearth.com/de/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/submissions/)
 
 # Bibliografia
 

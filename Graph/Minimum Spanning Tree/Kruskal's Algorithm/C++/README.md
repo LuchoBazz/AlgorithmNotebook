@@ -23,6 +23,8 @@ _Taken From_ [Wikipedia](https://es.wikipedia.org/wiki/Algoritmo_de_Kruskal)
 
 ### Implementación
 
+**Approach:** `Greedy`
+
 ```C++
 struct Edge {
     int  u, v, w;
