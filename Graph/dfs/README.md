@@ -9,14 +9,13 @@
 
 ### Problemas
 
-
 [![Generic badge](https://img.shields.io/badge/Codeforces-Easy-green.svg)](https://codeforces.com/problemset)
 
 * [[1] A. New Year Transportation - Codeforces/Easy](https://codeforces.com/problemset/problem/500/A)
 
 * [[2] C. Rumor - Codeforces/Easy](https://codeforces.com/problemset/problem/893/C)
 
-* [[3] B. Mahmoud and Ehab and the bipartiteness - Codeforces/Easy](https://codeforces.com/problemset/problem/862/B)
+* [[3] B. Mahmoud and Ehab and the bipartiteness - Codeforces/Easy - (Bipartite Graphs)](https://codeforces.com/problemset/problem/862/B)
 
 * [[4] A. Party](https://codeforces.com/problemset/problem/115/A)
 
@@ -26,7 +25,14 @@
 
 [![Generic badge](https://img.shields.io/badge/Codeforces-Medium-yellow.svg)](https://codeforces.com/problemset)
 
-* [[1] C. Andryusha and Colored Balloons - Codeforces/Medium](https://codeforces.com/problemset/problem/780/C)
+* [[1] E. Cover it! - CodeForces/Medium (Bipartite Graphs)](https://codeforces.com/contest/1176/problem/E)
+
+* [[2] C. Andryusha and Colored Balloons - Codeforces/Medium](https://codeforces.com/problemset/problem/780/C)
+
+* [[3] C. Cut 'em all! - CodeForces/Medium](https://codeforces.com/contest/982/problem/C)
+
+* [[4] C. Andryusha and Colored Balloons - CodeForces/Medium](https://codeforces.com/contest/780/problem/C)
+
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
@@ -34,9 +40,13 @@
 
 * [[2] 200. Number of Islands - LeetCode/Medium](https://leetcode.com/problems/number-of-islands/)
 
-* [[3] 886. Possible Bipartition - LeetCode/Medium](https://leetcode.com/problems/possible-bipartition/)
+* [[3] 886. Possible Bipartition - LeetCode/Medium - (Bipartite graph)](https://leetcode.com/problems/possible-bipartition/)
 
-* [[4] 785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+* [[4] 785. Is Graph Bipartite? - LeetCode/Medium - (Bipartite graph)](https://leetcode.com/problems/is-graph-bipartite/)
+
+* [[5] 1020. Number of Enclaves - LeetCode/Medium](https://leetcode.com/problems/number-of-enclaves/)
+
+* [[6] 130. Surrounded Regions - LeetCode/Medium](https://leetcode.com/problems/surrounded-regions/)
 
 [![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
 
@@ -58,7 +68,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Uva-Medium-yellow.svg)](https://devskill.com/CodingProblems)
 
-* [[1] 10004 - Bicoloring - Uva/Medium](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
+* [[1] 10004 - Bicoloring - Uva/Medium - (Bipartite graph)](https://onlinejudge.org/index.php?option=com_frontpage&Itemid=1)
 
 # Bibliografia
 
