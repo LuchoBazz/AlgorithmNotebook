@@ -62,20 +62,28 @@
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset?tags=binary%20search)
 
-* [[1] B. Card Constructions - Codeforces/Easy](https://codeforces.com/problemset/problem/1345/B)
+* [[1] A. New Year and Hurry - (Binary Search)](https://codeforces.com/contest/750/problem/A)
+
+* [[2] B. Worms - (Binary Search)](https://codeforces.com/contest/474/problem/B)
+
+* [[3] B. Interesting drink - (Binary Search)](https://codeforces.com/contest/706/problem/B)
+
+* [[4] B. Card Constructions - (DP and Binary Search)](https://codeforces.com/problemset/problem/1345/B)
 
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 
-* [[1] C. Sagheer and Nubian Market - Codeforces/Medium](https://codeforces.com/contest/812/problem/C)
+* [[1] C. Valhalla Siege - (Binary Search)](https://codeforces.com/contest/975/problem/C)
 
-* [[2] B. Frodo and pillows - Codeforces/Medium](https://codeforces.com/problemset/problem/760/B)
+* [[2] C. Sagheer and Nubian Market - (Binary Search and Sorting)](https://codeforces.com/contest/812/problem/C)
 
-* [[3] C. Hamburgers - Codeforces/Medium](https://codeforces.com/problemset/problem/371/C)
+* [[3] B. Frodo and pillows - (Binary Search and Math)](https://codeforces.com/problemset/problem/760/B)
+
+* [[4] C. Hamburgers - (Binary Search and Math)](https://codeforces.com/problemset/problem/371/C)
 
 [![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
 
-* [[1] AGGRCOW - Aggressive cows - SPOJ/Medium](https://www.spoj.com/problems/AGGRCOW/)
+* [[1] AGGRCOW - Aggressive cows - (Binary Search)](https://www.spoj.com/problems/AGGRCOW/)
 
 # Bibliografia
 
