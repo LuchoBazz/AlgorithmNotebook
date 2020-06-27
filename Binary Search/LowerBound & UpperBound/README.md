@@ -31,6 +31,19 @@
 
 * [[4] 74. Search a 2D Matrix - LeetCode/Medium](https://leetcode.com/problems/search-a-2d-matrix/)
 
+[![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset?tags=binary%20search)
+
+* [[1] A. New Year and Hurry - (Binary Search)](https://codeforces.com/contest/750/problem/A)
+
+* [[2] B. Worms - (Binary Search)](https://codeforces.com/contest/474/problem/B)
+
+* [[3] B. Interesting drink - (Binary Search)](https://codeforces.com/contest/706/problem/B)
+
+
+[![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
+
+* [[1] C. Valhalla Siege - (Binary Search)](https://codeforces.com/contest/975/problem/C)
+
 ### Docs
 
 * [C++ - Lower_Bound & Upper_Bound - Standard Library](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Standard%20C%2B%2B/Data%20Structures%20/Lower_Bound%20%26%20Upper_Bound)
