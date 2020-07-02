@@ -70,6 +70,8 @@
 
 * [[4] B. Card Constructions - (DP and Binary Search)](https://codeforces.com/problemset/problem/1345/B)
 
+* [[5] C. K-th Not Divisible by n - (Binary Search and Math)](https://codeforces.com/contest/1352/problem/C)
+
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 

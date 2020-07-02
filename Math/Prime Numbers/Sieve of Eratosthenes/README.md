@@ -1,8 +1,7 @@
-# Prime Numbers
+# Sieve of Eratosthenes
 
 ## Contenido
 * [Implementación](#implementación)
-    * [Java](#java)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
 * [Bibliografia](#bibliografia)
@@ -11,7 +10,12 @@
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
 
-[[1] 204. Count Primes - LeetCode/Easy](https://leetcode.com/problems/count-primes/)
+* [[1] 204. Count Primes - LeetCode/Easy](https://leetcode.com/problems/count-primes/)
+
+[![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset)
+
+* [[1] A. Almost Prime - (Sieve of Eratosthenes)](https://codeforces.com/contest/26/problem/A)
+
 
 # Bibliografia
 

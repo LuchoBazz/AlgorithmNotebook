@@ -1,4 +1,4 @@
-# Bridges Using Tarjan's Algorithm - C++
+# Math - ToolBox - C++
 
 ## Contenido
 
