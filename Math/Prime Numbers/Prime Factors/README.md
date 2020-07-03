@@ -1,4 +1,4 @@
-# Primality Test
+# Prime Factors
 
 ## Contenido
 * [Implementación](#implementación)
