@@ -1,10 +1,9 @@
-# Math - ToolBox
+# Sum of Multiples of a number up to N
 
 ### Contenido
 
 * [Implementación](#)
     * [C++](#)
-    * [Java](#)
 * [Contenido](#contenido)
 * [Problemas](#problemas)
 * [Bibliografia](#bibliografia)
