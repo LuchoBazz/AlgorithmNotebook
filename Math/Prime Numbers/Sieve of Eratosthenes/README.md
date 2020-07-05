@@ -14,7 +14,17 @@
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset)
 
-* [[1] A. Almost Prime - (Sieve of Eratosthenes)](https://codeforces.com/contest/26/problem/A)
+* [[1] A. Noldbach problem - (Sieve of Eratosthenes)](https://codeforces.com/problemset/problem/17/A)
+
+* [[2] A. Almost Prime - (Sieve of Eratosthenes)](https://codeforces.com/contest/26/problem/A)
+
+[![Generic badge](https://img.shields.io/badge/HackerRank-Easy-green.svg)](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+* [[1] Project Euler #7: 10001st prime - (Sieve of Eratosthenes)](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem)
+
+[![Generic badge](https://img.shields.io/badge/HackerRank-Medium-yellow.svg)](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+* [[1] Project Euler #10: Summation of primes - (Sieve of Eratosthenes and Binary Search)](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem)
 
 
 # Bibliografia
