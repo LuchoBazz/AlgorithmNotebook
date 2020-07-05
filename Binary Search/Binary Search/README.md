@@ -87,6 +87,10 @@
 
 * [[1] AGGRCOW - Aggressive cows - (Binary Search)](https://www.spoj.com/problems/AGGRCOW/)
 
+[![Generic badge](https://img.shields.io/badge/HackerRank-Medium-yellow.svg)](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+* [[1] Project Euler #10: Summation of primes - (Sieve of Eratosthenes and Binary Search)](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem)
+
 # Bibliografia
 
 * [[1]](https://codeforces.com/blog/entry/9901) Laaksonen, A., 2014. Binary Search Implementation - Codeforces. [online] Codeforces. Available at: <https://codeforces.com/blog/entry/9901>.
