@@ -70,6 +70,8 @@
 
 * [[4] B. Card Constructions - (DP and Binary Search)](https://codeforces.com/problemset/problem/1345/B)
 
+* [[5] C. K-th Not Divisible by n - (Binary Search and Math)](https://codeforces.com/contest/1352/problem/C)
+
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 
@@ -84,6 +86,10 @@
 [![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
 
 * [[1] AGGRCOW - Aggressive cows - (Binary Search)](https://www.spoj.com/problems/AGGRCOW/)
+
+[![Generic badge](https://img.shields.io/badge/HackerRank-Medium-yellow.svg)](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+* [[1] Project Euler #10: Summation of primes - (Sieve of Eratosthenes and Binary Search)](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem)
 
 # Bibliografia
 

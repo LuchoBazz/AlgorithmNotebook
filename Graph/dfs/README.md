@@ -48,6 +48,8 @@
 
 * [[6] 130. Surrounded Regions - LeetCode/Medium](https://leetcode.com/problems/surrounded-regions/)
 
+* [[2] 1306. Jump Game III - (BFS and DFS)](https://leetcode.com/problems/jump-game-iii/)
+
 [![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
 
 * [[1] Make Maze - Validate the Maze - SphereOnlineJudge/Medium](https://www.spoj.com/problems/MAKEMAZE/)
