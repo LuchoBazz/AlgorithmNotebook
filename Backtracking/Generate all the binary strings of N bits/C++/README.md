@@ -16,21 +16,21 @@ const int n = 3;
 vector<bool> bits(n);
 
 void printBits() {
-	for(int i = 0; i < n; ++i) {
-		cout << (bits[i])?1:0;
-	}
-	cout << endl;
+    for(int i = 0; i < n; ++i) {
+        cout << (bits[i])?1:0;
+    }
+    cout << endl;
 }
 
 void backtracking(int i) {
-	if(i == n) {
-		printBits();
-	} else {
-		bits[i] = true;
-		backtracking(i+1);
-		bits[i] = false;
-		backtracking(i+1);
-	}
+    if(i == n) {
+        printBits();
+    } else {
+        bits[i] = true;
+        backtracking(i+1);
+        bits[i] = false;
+        backtracking(i+1);
+    }
 }
 ```
 
