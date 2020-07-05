@@ -11,7 +11,13 @@
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
 
-[[1] 914. X of a Kind in a Deck of Cards - Easy/LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+* [[1] 914. X of a Kind in a Deck of Cards - Easy/LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+
+[![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset)
+
+* [[1] A. Maximum GCD - (Analysis and Math)](https://codeforces.com/contest/1370/problem/A)
+
+* [[2] B. GCD Compression - (Analysis, Math and Greedy)](https://codeforces.com/contest/1370/problem/B)
 
 # Bibliografia
 
