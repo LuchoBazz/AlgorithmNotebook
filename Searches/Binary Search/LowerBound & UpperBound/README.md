@@ -1,4 +1,4 @@
-# Binary Search
+# LowerBound & UpperBound
 
 ### Contenido
 
