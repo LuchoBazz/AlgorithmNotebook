@@ -1,4 +1,4 @@
-# Ternary Search
+# Stack Data Structure
 
 ### Contenido
 
