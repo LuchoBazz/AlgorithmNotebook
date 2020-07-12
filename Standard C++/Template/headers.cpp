@@ -27,7 +27,7 @@
  */
  
 // 17.4.1.2 Headers
- 
+
 // C
 #ifndef _GLIBCXX_NO_ASSERT
 #include <cassert>
@@ -47,7 +47,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
- 
+
 #if __cplusplus >= 201103L
 #include <ccomplex>
 #include <cfenv>
@@ -59,7 +59,7 @@
 #include <cwchar>
 #include <cwctype>
 #endif
- 
+
 // C++
 #include <algorithm>
 #include <bitset>
@@ -93,7 +93,7 @@
 #include <utility>
 #include <valarray>
 #include <vector>
- 
+
 #if __cplusplus >= 201103L
 #include <array>
 #include <atomic>
