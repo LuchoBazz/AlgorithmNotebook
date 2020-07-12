@@ -1,4 +1,4 @@
-# Greatest Common Divisor & Least Common Multiple
+# Greatest Common Divisor
 
 ## Contenido
 * [Implementación](#)
