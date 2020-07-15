@@ -14,6 +14,9 @@
 
 * [[1] B. Omkar and Last Class of Math - (Analysis and Math)](https://codeforces.com/contest/1372/problem/B)
 
+[![Generic badge](https://img.shields.io/badge/AtCoder-Medium-yellow.svg)](https://atcoder.jp/contests)
+
+* [[1] C - Anti-Division - (Math, Analisys and LCM)](https://atcoder.jp/contests/abc131/tasks/abc131_c)
 
 # Bibliografia
 
