@@ -1,4 +1,4 @@
-# Distancias - Geometria Computacional en C++
+# Distancias 2D - Geometria Computacional en C++
 
 ## Contenido
 
@@ -26,13 +26,13 @@ ld abs(Point p)  { return sqrt(norm(p)); }
 * ### Manhattan Distance
 
 ```c++
-ll manhDistance(Point p) { return abs(p.x) + abs(p.y);}
-ll manhDistance(Point p1, Point p2) { return abs(p1.x-p2.x) + abs(p1.y-p2.y);}
+ll manh_distance(Point p) { return abs(p.x) + abs(p.y);}
+ll manh_distance(Point p1, Point p2) { return abs(p1.x-p2.x) + abs(p1.y-p2.y);}
 ```
 
 * ### Chebyshev Distance
 
 ```c++
-ll chDistance(Point p) { return max(abs(p.x), abs(p.y));}
-ll chDistance(Point p1, Point p2) { return max(abs(p1.x-p2.x), abs(p1.y-p2.y));}
+ll ch_distance(Point p) { return max(abs(p.x), abs(p.y));}
+ll ch_distance(Point p1, Point p2) { return max(abs(p1.x-p2.x), abs(p1.y-p2.y));}
 ```

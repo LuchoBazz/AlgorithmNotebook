@@ -13,21 +13,23 @@
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset)
 
-* [[1] A. Beru-taxi - Codeforces/Easy - (Euclidean Distance)](https://codeforces.com/contest/706/problem/A)
+* [[1] A. Beru-taxi - (Euclidean Distance)](https://codeforces.com/contest/706/problem/A)
 
-* [[2] B. New Year and North Pole - Codeforces/Easy - (Implementation)](https://codeforces.com/problemset/problem/750/B)
+* [[2] B. New Year and North Pole - (Implementation)](https://codeforces.com/problemset/problem/750/B)
 
-* [[3] B. Gleb And Pizza - Codeforces/Easy - (Circles)](https://codeforces.com/contest/842/problem/B)
+* [[3] B. Gleb And Pizza - (Circles)](https://codeforces.com/contest/842/problem/B)
 
-* [[4] B. Amr and Pins - Codeforces/Easy - (Circles)](https://codeforces.com/problemset/problem/507/B)
+* [[4] B. Amr and Pins - (Circles)](https://codeforces.com/problemset/problem/507/B)
 
-* [[5] B. Trace - Codeforces/Easy - (Circles)](https://codeforces.com/problemset/problem/157/B)
+* [[5] B. Trace - (Circles)](https://codeforces.com/problemset/problem/157/B)
 
-* [[6] A. Inscribed Figures - Codeforces/Easy - (Analysis)](https://codeforces.com/problemset/problem/1156/A)
+* [[6] A. Inscribed Figures - (Analysis)](https://codeforces.com/problemset/problem/1156/A)
 
-* [[7] A. Find Color - Codeforces/Easy - (Euclidean Distance)](https://codeforces.com/problemset/problem/40/A)
+* [[7] A. Find Color - (Euclidean Distance)](https://codeforces.com/problemset/problem/40/A)
 
-* [[8] B. Cover Points - Codeforces/Easy - (Analysis)](https://codeforces.com/problemset/problem/1047/B)
+* [[8] B. Cover Points - (Analysis)](https://codeforces.com/problemset/problem/1047/B)
+
+* [[9] C. Shawarma Tent - (Geometric Analysis)](https://codeforces.com/contest/1271/problem/C)
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/all/?topicSlugs=geometry&difficulty=Easy)
 
