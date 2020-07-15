@@ -14,20 +14,24 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `P` [Hamming Distance](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Hamming%20Distance) - número de posiciones en las que los símbolos son diferentes
     * `I` [Longest Common Subsequence](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Longest%20Common%20Subsequence)
     * `I` [Longest Common SubString](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Longest%20Common%20SubString)
-    * `I` [Trie (Prefix Tree)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Trie)
-    * `I` [Knuth–Morris–Pratt Algorithm (KMP Algorithm)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/KMP) - búsqueda de subcadenas (coincidencia de patrones) 
+    * `I` [Trie (Prefix Tree)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Prefix%20Tree%20-%20Trie) Arbol de Prefijos
+    * `I` [Knuth–Morris–Pratt Algorithm (KMP Algorithm)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Knuth-Morris-Pratt) - búsqueda de subcadenas (coincidencia de patrones) 
     * `A` [Levenshtein Distance](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/String/Levenshtein%20Distance) distancia mínima de edición entre dos strings
 
 * **Busquedas**
-    * `P` [Búsqueda Binaria](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Binary%20Search) -  búsqueda en una lista ordenada
+    * `P` [Búsqueda Binaria](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Searches/Binary%20Search/Binary%20Search) -  Busqueda eficiente en un campo ordenado.
+    * `P` [LowerBound & UpperBound](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Searches/Binary%20Search/LowerBound%20%26%20UpperBound)
 
 * **Matemáticas**
-    * `P` [Greatest Common Divisor - Euclides](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/GCD%20%26%20LCM) - calcular el máximo común divisor (MCD)
-    * `P` [Least Common Multiple](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/GCD%20%26%20LCM) - calcular el minimo común multiplo (MCM)
-    * `P` [Algoritmo de Euclides Extendido](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/GCD%20%26%20LCM)
-    * `P` [Criba de Eratostenes - Sieve of Eratosthenes](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/Prime%20Numbers) - encontrar todos los números primos hasta un límite dado
-    * `P` [Factores Primos - Prime Factors](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/Prime%20Numbers) - encontrar todos los factores primos y sus multiplicidades de un numero
-    * `P` [Verificar si es Numero Primo](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Number%20Theory/Prime%20Numbers) - verificar si un numero es primo de forma eficiente
+    * `P` [Greatest Common Divisor - Euclides](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/GCD-LCM/GCD) - calcular el máximo común divisor (MCD)
+    * `P` [Least Common Multiple](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/GCD-LCM/LCM) - calcular el minimo común multiplo (MCM)
+    * `P` [Algoritmo de Euclides Extendido](#)
+    * `P` [Criba de Eratostenes - Sieve of Eratosthenes](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Prime%20Numbers/Sieve%20of%20Eratosthenes) - encontrar todos los números primos hasta un límite dado
+    * `P` [Factores Primos - Prime Factors](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Prime%20Numbers/Prime%20Factors) - encontrar todos los factores primos y sus multiplicidades de un numero
+    * `P` [Test de Primalidad](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Prime%20Numbers/Primality%20Test) - verificar si un numero es primo de forma eficiente
+    * `P` [Fibonacci](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Fibonacci) - Secuencia de Fibonacci
+    * `P` [¿Es potencia de N?](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Toolbox/It%20is%20Power%20of%20N) - Verifica si un numero es potencia de N.
+    * `P` [Suma de múltiplos de un número desde 1 hasta N](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Toolbox/Sum%20of%20multiples%20of%20a%20number%20up%20to%20N) - Calcula la suma de todos los divisores de un numero dado desde 1 hasta N incluyendolo.
 
 * **Arboles**
     * `I` [Lowest Common Ancestor of a Binary Search Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/Lowest%20Common%20Ancestor%20-%20BST) - encontrar el ancestro común más bajo
@@ -81,6 +85,11 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `I` [Perimetro de un Poligono](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Vector%202D) Calcular el perimetro de un poligono
     
     * `A` [Convex Hull - Monotone Chain](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Geometry/Convex%20Hull/Monotone%20Chain) Calcular el minimo envolvente convexa que cubra todos los puntos dados
+
+* **Backtracking**
+    * `P` [Generate all the binary strings of N bits](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Backtracking/Generate%20all%20the%20binary%20strings%20of%20N%20bits) Calcular todos los string binarios de N bits
+
+    * `I` [Generate all Permutations](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Backtracking/Generate%20all%20Permutations) Calcular todas las permutaciones de los valores de un vector
 
 
 ## Estructuras de Datos

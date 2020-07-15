@@ -11,11 +11,15 @@
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Easy-green.svg)](https://leetcode.com/problemset/algorithms/)
 
-* [[1] 53. Maximum Subarray - LeetCode/Easy](https://leetcode.com/problems/maximum-subarray/)
+* [[1] 53. Maximum Subarray - (Kadane's Algorithm)](https://leetcode.com/problems/maximum-subarray/)
 
 [![Generic badge](https://img.shields.io/badge/Codeforces-Easy-green.svg)](https://codeforces.com/problemset)
 
-* [[1] B. Creating the Contest - Codeforces/Easy](https://codeforces.com/contest/1029/problem/B)
+* [[1] B. Creating the Contest - (Kadane's Algorithm)](https://codeforces.com/contest/1029/problem/B)
+
+[![Generic badge](https://img.shields.io/badge/AtCoder-Medium-yellow.svg)](https://atcoder.jp/contests/)
+
+* [[1] - D - Enough Array - (Maximum Subarray, Amortized analysis and Two pointers method)](https://atcoder.jp/contests/abc130/tasks/abc130_d)
 
 # Bibliografia
 
