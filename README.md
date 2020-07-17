@@ -37,10 +37,10 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
     * `P` [Suma de múltiplos de un número desde 1 hasta N](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Math/Toolbox/Sum%20of%20multiples%20of%20a%20number%20up%20to%20N) - Calcula la suma de todos los divisores de un numero dado desde 1 hasta N incluyendolo.
 
 * **Arboles**
-    * `I` [Lowest Common Ancestor of a Binary Search Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Tree/Lowest%20Common%20Ancestor%20-%20BST) - encontrar el ancestro común más bajo
+    * `I` [Lowest Common Ancestor of a Binary Search Tree](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Trees/%20Binary%20Tree/Lowest%20Common%20Ancestor) - encontrar el ancestro común más bajo
 
 * **Programación Dinamica**
-    * `P` [Algoritmo de Kadane - Suma Maxima de SubArrays](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Algoritmo%20de%20Kadane%20-%20Suma%20Maxima%20de%20SubArrays) - Encontrar un sub array cuya suma sea maxima
+    * `P` [Algoritmo de Kadane - Suma Maxima de SubArrays](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Maximum%20Subarray/Kadane's%20Algorithm) - Encontrar un sub array cuya suma sea maxima
     * `P` [Range Sum Query - Immutable](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Range%20Sum%20Query%20-%20Immutable) - Realizar sumas entre rangos para un array immutable
 
     * `A` [Aliens Trick](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Dynamic%20Programming/Aliens%20Trick) - Dado un array y un `k`, encontrar k sub arrays cuya suma sea maxima
@@ -50,9 +50,9 @@ Un algoritmo es una especificación inequívoca de cómo resolver una clase de p
 
     * `I` [Breadth-first search (DFS)](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/bfs) Metodo para recorrer todos los nodos de un Grafo, de forma iterativa
 
-    * `I` [Dijkstra's Algorithm](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Dijkstra) - encontrar los caminos más cortos a todos los vértices del grafo desde un solo vértice
+    * `I` [Dijkstra's Algorithm](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Single%20Source%20Shortest%20Path/Dijkstra) - encontrar los caminos más cortos a todos los vértices del grafo desde un solo vértice
 
-    * `I` [Save Path - Dijkstra](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Save%20Path%20-%20Dijkstra) - encontrar los caminos más cortos y la ruta a todos los vértices del grafo desde un solo vértice
+    * `I` [Save Path - Dijkstra](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Single%20Source%20Shortest%20Path/Save%20Path%20-%20Dijkstra) - encontrar los caminos más cortos y la ruta a todos los vértices del grafo desde un solo vértice
 
     * `I` [Disjoint Set Union](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Graph/Disjoint%20Set%20Union) - Verificar conectividad de dos nodos de un grafo óptimamente
 
