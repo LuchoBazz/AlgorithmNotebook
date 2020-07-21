@@ -30,10 +30,8 @@ using namespace std;
 #define piii  pair<int, pair<int, int>>
 #define pll   pair<ll, ll>
 
-#define F  first
-#define S  second
-#define PB push_back
-#define MP make_pair
+#define X  first
+#define Y  second
 
 #define debug(...) "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "] "
 
@@ -46,12 +44,14 @@ string to_string(bool b) {
 }
  
 template <typename A, typename B>
-string to_string(pair<A, B> p) {
+string to_string(const pair<A, B> p) {
     return "(" + to_string(p.first) + ", " + to_string(p.second) + ")";
 }
- 
-template <typename A, typename T>
-string to_string(A v) {
+
+// add templates here
+
+template <typename T>
+string to_string(const vector<T> &v) {
     bool first = true;
     string res = "{";
     for (const T &x : v) {
@@ -65,16 +65,11 @@ string to_string(A v) {
     return res;
 }
 
-// add templates here
-
-template<class T>
-void println(const vector<T> &data) {
-    cout << to_string<vector<T>, T>(data) <<endl;
-}
-
 template<class T>
 void println(const T &data) {
+#ifndef ONLINE_JUDGE
     cout << to_string((T)data) << endl;
+#endif
 }
 
 const int MOD = int(1e9+7);

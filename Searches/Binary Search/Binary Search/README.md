@@ -27,6 +27,8 @@
 
 * [[8] 1237. Find Positive Integer Solution for a Given Equation - LeetCode/Easy](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
 
+* [[9] 441. Arranging Coins - (Math and Binary Search)](https://leetcode.com/problems/arranging-coins/submissions/)
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 * [[1] 875. Koko Eating Bananas - LeetCode/Medium](https://leetcode.com/problems/koko-eating-bananas/)
