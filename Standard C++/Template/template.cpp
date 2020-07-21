@@ -62,8 +62,8 @@ void println(const T &data) {
 }
 
 const int MOD = int(1e9+7);
-const int oo  = int(1e9 + 20);
-const ll lloo  = (ll)(1e18 + 10);
+const int oo  = int(1e9+20);
+const ll lloo  = (ll)(1e18)+40;
     
 int main() {
     ios_base::sync_with_stdio(false);
