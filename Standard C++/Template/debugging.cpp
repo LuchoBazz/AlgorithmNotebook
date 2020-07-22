@@ -1,28 +1,10 @@
-// Made by Luis Miguel Baez
-// es.luismiguelbaez@gmail.com
-
 #include <bits/stdc++.h>
- 
 using namespace std;
-
-#define endl '\n'
-#define precise(n,k) fixed << setprecision(k) << n
-#define all(x) (x).begin(), (x).end()
-#define rall(x) (x).rbegin(), (x).rend()
-
-#define uint  unsigned int
-#define ll    long long
-#define ull   unsigned long long
-#define ld    long double
-
-#define pii   pair<int, int>
-#define piii  pair<int, pair<int, int>>
-#define pll   pair<ll, ll>
-
-#define X  first
-#define Y  second
+//------------------------------------
 
 #define debug(...) "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "] "
+
+// To String
 
 string to_string(string s) {
     return '"' + s + '"';
@@ -37,7 +19,26 @@ string to_string(const pair<A, B> p) {
     return "(" + to_string(p.first) + ", " + to_string(p.second) + ")";
 }
 
-// add templates here
+template <typename A, typename B, typename C>
+string to_string(const tuple<A, B, C> p) {
+    return "(" + to_string(get<0>(p)) + ", " + to_string(get<1>(p)) + ", " + to_string(get<2>(p)) + ")";
+}
+ 
+template <typename A, typename B, typename C, typename D>
+string to_string(const tuple<A, B, C, D> p) {
+    return "(" + to_string(get<0>(p)) + ", " + to_string(get<1>(p)) + ", " + to_string(get<2>(p)) + ", " + to_string(get<3>(p)) + ")";
+}
+
+template <size_t N>
+string to_string(const bitset<N> v) {
+    string res = "";
+    for (size_t i = 0; i < N; i++) {
+        res += static_cast<char>('0' + v[i]);
+    }
+    return res;
+}
+
+// add to_string here
 
 template <typename T>
 string to_string(const vector<T> &v) {
@@ -54,23 +55,11 @@ string to_string(const vector<T> &v) {
     return res;
 }
 
+// Print Line
+
 template<class T>
 void println(const T &data) {
 #ifndef ONLINE_JUDGE
     cout << to_string((T)data) << endl;
 #endif
-}
-
-const int MOD = int(1e9+7);
-const int oo  = int(1e9+20);
-const ll lloo  = (ll)(1e18)+40;
-    
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-
-    // your code goes here
-
-    return 0;
 }
