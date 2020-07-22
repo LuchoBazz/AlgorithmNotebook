@@ -57,6 +57,23 @@ vector<int> sieve(int number) {
     return primes;
 }
 
+// All divisors of a number
+template<class T>
+vector<T> divisors(T number) {
+    vector<T> solutions;
+    for (T i = 1; i <= sqrt(number); ++i) {
+        if (number % i == 0) {
+            if (number/i == i) {
+                solutions.push_back(i);
+            } else {
+                solutions.push_back(i);
+                solutions.push_back(number/i);
+            }
+        }
+    }
+    return solutions;
+} 
+
 // ToolBox
 
 // It's Power of N
