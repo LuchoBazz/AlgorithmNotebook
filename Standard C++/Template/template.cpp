@@ -16,8 +16,9 @@ using namespace std;
 #define ld    long double
 
 #define pii   pair<int, int>
-#define piii  pair<int, pair<int, int>>
+#define piii  tuple<int, int, int>
 #define pll   pair<ll, ll>
+#define plll  tuple<ll, ll, ll>
 
 #define X  first
 #define Y  second
@@ -65,7 +66,7 @@ const int MOD = int(1e9+7);
 const int oo  = int(1e9+20);
 const ll lloo  = (ll)(1e18)+40;
     
-int main() {
+auto main() -> int {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
