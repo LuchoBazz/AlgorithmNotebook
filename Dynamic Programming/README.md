@@ -15,6 +15,10 @@
 * [[3] 983. Minimum Cost For Tickets - (DP and Binary Search)](https://leetcode.com/problems/minimum-cost-for-tickets/)
 * [[4] 486. Predict the Winner - (DP)](https://leetcode.com/problems/predict-the-winner/)
 * [[5] 877. Stone Game - (DP)](https://leetcode.com/problems/stone-game/)
+* [[6] 1553. Minimum Number of Days to Eat N Oranges - (DP)](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)
+* [[7] 300. Longest Increasing Subsequence - (DP)](https://leetcode.com/problems/longest-increasing-subsequence/)
+* [[8] 1402. Reducing Dishes - (DP)](https://leetcode.com/problems/reducing-dishes/)
+* [[9] 1320. Minimum Distance to Type a Word Using Two Fingers - (DP)](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)
 
 [![Generic badge](https://img.shields.io/badge/AtCoder-Medium-yellow.svg)](https://atcoder.jp/)
 
