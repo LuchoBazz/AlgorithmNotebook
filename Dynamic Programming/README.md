@@ -31,6 +31,7 @@
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=dp)
 
 * [[1] A. Vacations - (DP and recursive)](https://codeforces.com/contest/698/problem/A)
+* [[2] E. Sleeping Schedule (DP)](https://codeforces.com/contest/1324/problem/E)
 
 [![Generic badge](https://img.shields.io/badge/CSES-Medium-yellow.svg)](https://cses.fi/problemset/)
 

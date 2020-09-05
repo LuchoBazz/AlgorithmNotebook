@@ -74,6 +74,8 @@
 
 * [[5] C. K-th Not Divisible by n - (Binary Search and Math)](https://codeforces.com/contest/1352/problem/C)
 
+* [[6] C. Frog Jumps - (Binary Search)](https://codeforces.com/contest/1324/problem/C)
+
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 

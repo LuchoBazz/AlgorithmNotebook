@@ -15,4 +15,8 @@
 
 * [[2] C. Common Divisors - (GCD, GCD of more than two (or array) numbers and Divisors)](https://codeforces.com/contest/1203/problem/C)
 
+* [[3] D. Buying Shovels - (Divisors of a Number)](https://codeforces.com/contest/1360/problem/D)
+
+* [[4] C. Yet Another Array Restoration - (Divisors of a Number)](https://codeforces.com/contest/1409/problem/C)
+
 # Bibliografia
