@@ -32,6 +32,8 @@
 
 [[2] B. Mike and Feet Codeforces](https://codeforces.com/problemset/problem/547/B)
 
+[[2] D. Districts Connection - (DSU)](https://codeforces.com/contest/1433/problem/D)
+
 # Bibliografia
 
 [[1]](https://www.youtube.com/watch?v=VHRhJWacxis) WilliamFiset Youtube Channel. 2017. Union Find Path Compression. [online] Available at: <https://www.youtube.com/watch?v=VHRhJWacxis>.

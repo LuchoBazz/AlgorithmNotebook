@@ -19,4 +19,6 @@
 
 * [[4] C. Yet Another Array Restoration - (Divisors of a Number)](https://codeforces.com/contest/1409/problem/C)
 
+* [[5] A. k-th divisor - (Divisors of a Number and Sorting)]
+
 # Bibliografia
