@@ -95,6 +95,8 @@
 
 * [[6] C. Candies - (Binary Search and Implementation)](https://codeforces.com/contest/991/problem/C)
 
+* [[7] B. Dubious Cyrpto - (Binary Search or Brute Force) [1500*]](https://codeforces.com/contest/1379/problem/B)
+
 [![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
 
 * [[1] AGGRCOW - Aggressive cows - (Binary Search)](https://www.spoj.com/problems/AGGRCOW/)

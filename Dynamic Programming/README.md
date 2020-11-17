@@ -36,6 +36,7 @@
 * [[4] E. Sleeping Schedule (DP)](https://codeforces.com/contest/1324/problem/E)
 * [[5] C1. Pokémon Army (easy version) - (DP)](https://codeforces.com/contest/1420/problem/C1)
 * [[6] D. Easy Problem (DP)](https://codeforces.com/contest/1096/problem/D)
+* [[7] B. Marvolo Gaunt's Ring - (DP Trick)](https://codeforces.com/contest/855/problem/B)
 
 
 [![Generic badge](https://img.shields.io/badge/CSES-Medium-yellow.svg)](https://cses.fi/problemset/)
