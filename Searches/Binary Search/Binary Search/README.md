@@ -74,6 +74,12 @@
 
 * [[5] C. K-th Not Divisible by n - (Binary Search and Math)](https://codeforces.com/contest/1352/problem/C)
 
+* [[6] C. Frog Jumps - (Binary Search)](https://codeforces.com/contest/1324/problem/C)
+
+* [[7] C. Candies - (Binary Search)](https://codeforces.com/contest/991/problem/C)
+
+* [[8] B1. The Doctor Meets Vader - (Binary Search)](https://codeforces.com/contest/1184/problem/B1)
+
 
 [![Generic badge](https://img.shields.io/badge/CodeForces-Medium-yellow.svg)](https://codeforces.com/problemset?tags=binary%20search)
 
@@ -84,6 +90,12 @@
 * [[3] B. Frodo and pillows - (Binary Search and Math)](https://codeforces.com/problemset/problem/760/B)
 
 * [[4] C. Hamburgers - (Binary Search and Math)](https://codeforces.com/problemset/problem/371/C)
+
+* [[5] B1. The Doctor Meets Vader (Easy) - (Binary Search and Sorting)](https://codeforces.com/contest/1184/problem/B1)
+
+* [[6] C. Candies - (Binary Search and Implementation)](https://codeforces.com/contest/991/problem/C)
+
+* [[7] B. Dubious Cyrpto - (Binary Search or Brute Force) [1500*]](https://codeforces.com/contest/1379/problem/B)
 
 [![Generic badge](https://img.shields.io/badge/SPOJ-Medium-yellow.svg)](https://www.spoj.com/problems/tag/binary-search)
 

@@ -15,7 +15,9 @@
 
 [![Generic badge](https://img.shields.io/badge/SphereOnlineJudge-Medium-yellow.svg)](https://www.spoj.com/problems/classical/)
 
-[[1] FENTREE - Fenwick Trees - Medium/Spoj](https://www.spoj.com/problems/FENTREE/)
+[[1] FENTREE - Fenwick Trees - (Fenwick sum)](https://www.spoj.com/problems/FENTREE/)
+
+[[2] D-query - (Fenwick sum)](https://www.spoj.com/problems/DQUERY/)
 
 # Bibliografia
 

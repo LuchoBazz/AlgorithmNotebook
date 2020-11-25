@@ -9,6 +9,10 @@
 
 ### Problemas
 
+[![Generic badge](https://img.shields.io/badge/Codeforces-Easy-green.svg)](https://codeforces.com/problemset)
+
+* [[1] B. Two Buttons - (BFS ans Shorter Path)](https://codeforces.com/problemset/problem/520/B)
+
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 
 * [[1] 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)

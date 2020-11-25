@@ -44,6 +44,12 @@
 
 * [[1] C. Valhalla Siege - (Binary Search)](https://codeforces.com/contest/975/problem/C)
 
+* [[2] D. Pair of Topics - (Lower Bound)](https://codeforces.com/contest/1324/problem/D)
+
+[![Generic badge](https://img.shields.io/badge/CodeForcesGym-Medium-yellow.svg)](https://codeforces.com/gyms)
+
+* [[1] M. Magic spells - (Preprocessing and Lower Bound)](https://codeforces.com/gym/102700/problem/M)
+
 ### Docs
 
 * [C++ - Lower_Bound & Upper_Bound - Standard Library](https://github.com/LuisMBaezCo/AlgorithmNotebook/tree/master/Standard%20C%2B%2B/Data%20Structures%20/Lower_Bound%20%26%20Upper_Bound)
