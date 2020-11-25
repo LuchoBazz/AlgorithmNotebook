@@ -25,6 +25,8 @@
 
 * [[1] D. Lunar New Year and a Wander - Codeforces/Medium](https://codeforces.com/problemset/problem/1106/D)
 
+* [[2] G. Reducing Delivery Cost - (Dijkstra and Brute Force)](https://codeforces.com/contest/1433/problem/G)
+
 # Bibliografia
 
 [[1]](https://www.youtube.com/watch?v=pSqmAO-m7Lk) Fiset, W., 2018. Dijkstra's Shortest Path Algorithm | Graph Theory. [online] youtube channel WilliamFiset. Available at: https://www.youtube.com/watch?v=pSqmAO-m7Lk.

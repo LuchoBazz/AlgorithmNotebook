@@ -33,6 +33,8 @@
 
 * [[4] C. Andryusha and Colored Balloons - CodeForces/Medium](https://codeforces.com/contest/780/problem/C)
 
+* [[5] E. Cyclic Components - (DFS)](https://codeforces.com/contest/977/problem/E)
+
 
 [![Generic badge](https://img.shields.io/badge/LeetCode-Medium-yellow.svg)](https://leetcode.com/problemset/algorithms/)
 

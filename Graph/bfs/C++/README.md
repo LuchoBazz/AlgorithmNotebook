@@ -29,6 +29,7 @@ using namespace std;
 vector<vector<int>> adj;
 vector<bool> visited;
 vector<int> dist;
+const int oo = int(1e9);
 
 void bfs(int start) {
     visited[start] = true;
@@ -37,14 +38,13 @@ void bfs(int start) {
     queue<int> q;
     q.push(start);
 
-    while(q.size()) {
+    while(!q.empty()) {
         int node = q.front(); q.pop();
-
-        for(int neighboor: adj[node]) {
-            if(!visited[neighboor]) {
-                visited[neighboor] = true;
-                dist[neighboor] = dist[node] + 1;
-                q.push(neighboor);
+        for(int neighbor: adj[node]) {
+            if(!visited[neighbor]) {
+                visited[neighbor] = true;
+                dist[neighbor] = dist[node] + 1;
+                q.push(neighbor);
             }
         }
     }
@@ -56,7 +56,7 @@ int main() {
     
     adj.resize(vertex);
     visited.resize(vertex, false);
-    dist.resize(vertex, 0);
+    dist.resize(vertex, oo);
     
     vector<pair<int, int>> edges {
         {0, 1},

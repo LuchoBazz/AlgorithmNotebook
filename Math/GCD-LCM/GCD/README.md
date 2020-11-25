@@ -19,6 +19,8 @@
 
 * [[2] B. GCD Compression - (Analysis, Math and Greedy)](https://codeforces.com/contest/1370/problem/B)
 
+* [[3] C. Common Divisors - (GCD, GCD of more than two (or array) numbers and Divisors)](https://codeforces.com/contest/1203/problem/C)
+
 # Bibliografia
 
 [[1]](https://www.geeksforgeeks.org/program-to-find-lcm-of-two-numbers/) Mondal, S. and Mangla, D. (2014). Program to find LCM of two numbers - GeeksforGeeks. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/program-to-find-lcm-of-two-numbers/.

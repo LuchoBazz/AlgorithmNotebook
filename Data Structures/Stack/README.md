@@ -12,6 +12,8 @@
 [![Generic badge](https://img.shields.io/badge/CodeForces-Easy-green.svg)](https://codeforces.com/problemset)
 
 * [[1] C. Move Brackets - (Stack)](https://codeforces.com/contest/1374/problem/C)
+* [[2] C. ABBB - (Stack)](https://codeforces.com/contest/1428/problem/C)
+* [[3] A. BerOS file system - (Stack)](https://codeforces.com/contest/20/problem/A)
 
 # Bibliografia
 

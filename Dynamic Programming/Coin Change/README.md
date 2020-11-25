@@ -17,4 +17,8 @@
 
 * [[1] C - Strange Bank - AtCoder/Medium](https://atcoder.jp/contests/abc099/tasks/abc099_c)
 
+[![Generic badge](https://img.shields.io/badge/CSES-Medium-yellow.svg)](https://cses.fi/problemset/)
+
+* [[1] Minimizing Coins - (DP)](https://cses.fi/problemset/task/1634/)
+
 # Bibliografia
